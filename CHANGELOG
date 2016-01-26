@@ -1,4 +1,29 @@
-GNU/LINUX DISTRIBUTION TIMELINE | ChangeLog
+Linux Distribution Timeline | CHANGELOGS
+========================================
+
+16.3 (2016-03-04)
+* Added: Chapeau, Volumio
+* Changed: Kororaa -> Korora
+
+16.2 (2016-02-07)
+* Added: LXLE, Linux Lite, Ubuntu MATE, Ubuntu GNOME, Gobuntu, LinuxBBQ, Void, Raspbian
+* Discontinued: Gobuntu, Garuda
+* Changed: Oracle Enterprise -> Oracle Linux, Readded Chakra as an Arch fork
+* Changed: Repo from GitHub to GitLab
+
+16.1.1 (2016-01-29)
+* Fixed: SuliX base (from Fedora Core to Red Hat)
+* Added: Android, CyanogenMod, Cyanogen OS, BlackArch, Kylin
+* Added: Connector from Debian -> Deepin, Debian -> gNewSense
+
+16.1 (2016-01-28)
+* Discontinued: Fuduntu, Red Flag, Jolicloud, rPath, Foresight, Mandriva, Mythdora, trixbox
+* Added 4 distros (total 484): Solus, CoreOS, KaOS, Crunchbang++
+* Renamed: Crunchbang -> Bunsen Labs (The recognized community continuation, see: http://crunchbang.org/forums/viewtopic.php?id=40737)
+* Changed: Chakra (no longer Arch based)
+* Works best with gnuclad 0.2.4
+* When using LibreOffice Calc, turn on "quoted field as text"
+
 ===========================================
 
 12.10 (2011-10-23)
