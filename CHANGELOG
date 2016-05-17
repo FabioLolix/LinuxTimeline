@@ -3,6 +3,8 @@ Linux Distribution Timeline | CHANGELOGS
 
 16.NEXT (TBD)
 * Discontinued: Pear OS
+* Discontinued: Nova
+* Fixed: Nova (From Debian to Enoch)
 * Changed: Repo from GitLab back to GitHub
 * Changed: Link for Pear OS
 
