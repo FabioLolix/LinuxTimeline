@@ -1,6 +1,11 @@
 Linux Distribution Timeline | CHANGELOGS
 ========================================
 
+16.NEXT (TBD)
+* Discontinued: Pear OS
+* Changed: Repo from GitLab back to GitHub
+* Changed: Link for Pear OS
+
 16.3 (2016-03-04)
 * Added: Chapeau, Volumio
 * Changed: Kororaa -> Korora
