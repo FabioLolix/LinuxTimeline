@@ -2,6 +2,7 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 16.NEXT (TBD)
+* Added: ChaletOS
 * Discontinued: Pear OS, Nova, Commodore OS
 * Fixed: Nova (From Debian to Enoch)
 * Changed: Repo from GitLab back to GitHub
