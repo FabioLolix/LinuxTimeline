@@ -11,6 +11,11 @@ Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
 Original source: http://futurist.se/gldt/
 
+##NOTICE
+
+If you edit the CSV using LibreOffice Calc, make sure to load the file
+with "Quoted field as text" enabled to prevent autoformatting.
+
 #### Installation
 
 If you want to build your own version, make sure you have gnuclad
@@ -23,5 +28,5 @@ After you have installed gnuclad, to build just the svg, run:
 
     gnuclad gldt.csv SVG gldt.conf
 
-You can run the script (build.sh) to build the svg, png, and the tarball
+You can run the script `build.sh` to build the svg, png, and the tarball
 containing the source.
