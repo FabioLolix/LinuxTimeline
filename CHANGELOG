@@ -2,7 +2,7 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 16.NEXT (TBD)
-* Added: ChaletOS
+* Added: ChaletOS, ExTiX
 * Discontinued: Pear OS, Nova, Commodore OS
 * Fixed: Nova (From Debian to Enoch)
 * Changed: Repo from GitLab back to GitHub
@@ -240,27 +240,27 @@ Linux Distribution Timeline | CHANGELOGS
  * Added 34 distros: gNewSense, Linux Mint, Sidux, How-Tux, Skolelinux, e-smith/SME Server, Eurielec, SmoothWall, IPCop, Ulteo, Impi, Trustix, Elive, ALT Linux, Annvix, ATmission, Kurumin, Aurox, StartCom, Caixa Mágica, DARKSTAR, NimbleX, Sauver, DeLi, DeMuDi, GoboLinux, Parsix, Gnu-HALO, DSL-N, KnoppMyth, ZoneCD, nUbuntu, Oz. (Thanks janet, maco, B4ShHK, Thomas Bliesener, Tsunemi, tarumbar, Smarter, Líus F. Carneiro, Jake Neumann, REVTUX)
  * Fixed Turbolinux/United Linux, Ubuntu/Freespire, Damn Small Linux, PLD, Stampede based on Slackware, Astaro based on SUSE, SLAX (Thanks duder, David Orban, Dylan Griffiths, Lars Strand, Mariusz Mazur, Jake Neumann)
  * Removed SELinux (Thanks Graham White)
- 
+
  7.2 (2007-02-28)
  * Added 16 distros: Pardus, Linux From Scratch, SELinux, EnGarde, TAMU, DLD/Delix, LST, Yellow Dog, Turbolinux, Rock Linux, Freespire, openSUSE, United Linux, PLD, Kate Linux/KateOS. (Thanks Pawel Michalik, B. Kandemir, T. Ainsworth)
  * Fixed MCC, SLS, Slackware, Libranet, Arch, Frugalware. (Thanks D. Gimpelevich)
- 
+
  6.9 (2006-09-25)
  * Added 3 distros: Ekaaty, Virtual Linux, Beehive. (Thanks tosta, nightwriter)
- 
+
  6.8.4 (2006-08-30)
  * Added 11 distros: Caldera/SCO, Redmond/Lycoris, Libranet, Peanut/aLinux, Scientific, BLAG, dyne:bolic, Symphony OS.
  * Fixed PCLinuxOS, Source Mage. (Thanks ruskie)
- 
+
  6.8.3 (2006-08-26)
  * Added 3 distros: SimplyMEPIS, Storm, Progeny. (Thanks D. Gimpelevich, Moises, Jeff Self)
  * Fixed Vector, Damn Small Linux. (Thanks J. Grindstone, D. Gimpelevich)
- 
+
  6.8.2 (2006-08-20)
  * Added 14 distros: MCC, Yggdrasil, Stampede, Yoper, Sorcerer, Lunar, Source Mage, Enoch, Jurix, Specifix, Guadalinex, Edubuntu, RR4/RR64/Sabayon. (Thanks nightwriter + others)
- 
+
  6.8.1 (2006-08-16)
  * Fixed SUSE, removed openSUSE until its official release. (Thanks M. Schlander)
- 
+
  6.8 (2006-08-14)
  * First one.
