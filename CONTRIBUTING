@@ -11,17 +11,18 @@ Formatting
 
 Remember to keep the CSV coherent, newest distro will always go to the
 lowest place. And also, please group it accordingly, a Debian-based
-distro should never be grouped with a distro based on Slackware. Also,
-if another distro based on another distro, based on another distro is
-released, put it after, to the bottomest place, *before* another distro.
+distro should never be grouped with a distro based on Red Hat.
 
-For example:
+I'll just give an example of how we can get it done.
 
 	"Debian"
 		"Ubuntu" based on Debian
 			"Kubuntu" based on Ubuntu
-				"Linux Mint" based on Ubuntu
-		"gNewSense" based on Debian
+			"Linux Mint" based on Ubuntu
+		"Crunchbang" based on Debian
+	"Red Hat"
+		"Fedora Core" based on Red Hat
+		"CentOS" based on Red Hat
 
 Keep the original timeline
 ==========================
