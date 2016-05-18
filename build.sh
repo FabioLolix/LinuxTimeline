@@ -4,21 +4,22 @@
 # You can specify the version as first argument:
 #   ./build.sh 1234
 #
-# Exception: if the argument is "svg", this script 
-# will only generate the svg file and omit the rest.
+# Exception: if the argument is "svg", this script will only generate
+# the svg file and omit the rest.
 
 
 ##########
 # Configuration
 
-# Custom path to gnuclad (leave empty if you already installed it in your PATH)
-GC=/home/bryonak/c/gnuclad/bryonak/src/gnuclad
+# Custom path to gnuclad (leave empty if you already installed it in
+# your PATH)
+GC=
 
 # The basename of the .csv and .conf file
 PROJNAME='gldt'
 
 # Which files to include into the archive
-DISTFILES='gldt.csv gldt.conf ToDo ChangeLog README LICENSE images build.sh'
+DISTFILES='gldt.csv gldt.conf CHANGELOG README.md LICENSE images build.sh'
 
 #
 ##########
