@@ -6,6 +6,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Readded: JOPUX
 * Discontinued: Pear OS, Nova, Commodore OS, MeeGo, OS2005
 * Fixed: Nova (From Debian to Enoch)
+* Changed: ThinClientOS -> 2XOS
 * Changed: Repo from GitLab back to GitHub
 * Changed: Link for Pear OS
 
