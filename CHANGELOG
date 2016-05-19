@@ -2,7 +2,8 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 16.5 (2016-05-TBD)
-* Added: ChaletOS, ExTiX, Univention, AryaLinux, Rebellin, Slackel, RoboLinux
+* Added: ChaletOS, ExTiX, Univention, AryaLinux, Rebellin, Slackel
+* Added: RoboLinux, Plamo Linux
 * Readded: JOPUX
 * Discontinued: Pear OS, Nova, Commodore OS, MeeGo, OS2005
 * Fixed: Nova (From Debian to Enoch)
