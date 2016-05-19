@@ -4,9 +4,11 @@ Linux Distribution Timeline | CHANGELOGS
 16.5 (2016-05-TBD)
 * Added: ChaletOS, ExTiX, Univention, AryaLinux, Rebellin, Slackel
 * Added: RoboLinux, Plamo Linux
+* Added: Connector 2 from Debian to Pardus
 * Readded: JOPUX
 * Discontinued: Pear OS, Nova, Commodore OS, MeeGo, OS2005
 * Fixed: Nova (From Debian to Enoch)
+* Fixed: Pardus to Enoch-based distribution
 * Changed: ThinClientOS -> 2XOS
 * Changed: Repo from GitLab back to GitHub
 * Changed: Link for Pear OS
