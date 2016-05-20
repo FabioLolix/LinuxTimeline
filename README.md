@@ -11,10 +11,9 @@ Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
 Original source: http://futurist.se/gldt/
 
-##NOTICE
+##CONTRIBUTING
 
-If you edit the CSV using LibreOffice Calc, make sure to load the file
-with "Quoted field as text" enabled to prevent autoformatting.
+See CONTRIBUTING
 
 #### Installation
 
