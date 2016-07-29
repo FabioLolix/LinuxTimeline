@@ -2,8 +2,9 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 16.NEXT (2016-TBD)
-* Added: Untangle, OpenMandriva Lx, Tanglu, Ubuntu DesktopPack
+* Added: Untangle, OpenMandriva Lx, Tanglu, Ubuntu DesktopPack, Voyager
 * Fixed: Link for Parabola
+* Fixed: Position for PC/OS (to Xubuntu)
 
 16.6 (2016-06-29)
 * Added: NethServer, PrimTux, UberStudent, HandyLinux, Baruwa, Rockstor
