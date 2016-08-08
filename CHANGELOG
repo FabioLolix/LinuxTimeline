@@ -4,9 +4,21 @@ Linux Distribution Timeline | CHANGELOGS
 16.NEXT (2016-TBD)
 * Added: Untangle, OpenMandriva Lx, Tanglu, Ubuntu DesktopPack, Voyager
 * Added: Runtu, Endian, Rescatux, Lakka, LibreELEC, LEDE-Project
+* Added: Sonar, Netrunner Rolling, EasyNAS, GeckoLinux, KDE Neon
 * Fixed: Link for Parabola
 * Fixed: Position for SuliX
 * Fixed: Position for PC/OS (to Xubuntu)
+* Fixed: Position for Runtu (to Xubuntu)
+* Fixed: Position for LXLE (to Lubuntu)
+* Fixed: Position for Netrunner (to Kubuntu)
+* Fixed: LibreELEC to OpenELEC-based distribution
+* Fixed: Simplicity to Puppy-based distribution
+* Fixed: AryaLinux to LFS-based distribution
+* Fixed: Qube OS to Fedora-based distribution
+* Fixed: Ututo to Gentoo-based distribution
+* Fixed: Engarde to Red Hat-based distribution
+* Fixed: Rip to Slackware-based distribution
+* Discontinued: KahelOS, LDR, CTKARch, Aurora OS, EasyPeasy, Symphony OS, Element, Fluxbuntu, GnackTrack, Ubuntu Rescue Remix, Comfusion, U-Lite, Dream Studio, MoonOS, OpenGeu, Kiwi Linux, Ark Linux, 2XOS, 64 Studio, Satanic Edition, Qimo 4 Kids, ASLinux, Gibraltar, VLOS, AnikOS, p@xtreme, Ututo, Wolvix, Dragora, RIP, Mamona, Yoper Linux, Engarde
 * Thanks to: FabioLolix
 
 16.6 (2016-06-29)
