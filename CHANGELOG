@@ -5,7 +5,10 @@ Linux Distribution Timeline | CHANGELOGS
 * Added: Untangle, OpenMandriva Lx, Tanglu, Ubuntu DesktopPack, Voyager
 * Added: Runtu, Endian, Rescatux, Lakka, LibreELEC, LEDE-Project
 * Added: Sonar, Netrunner Rolling, EasyNAS, GeckoLinux, KDE Neon
+* Added: VyOS, Sailfish OS, Apricity OS, PoliArch
+* Renamed: Mint to Linux Mint
 * Fixed: Link for Parabola
+* Fixed: Link for Vyatta
 * Fixed: Position for SuliX
 * Fixed: Position for PC/OS (to Xubuntu)
 * Fixed: Position for Runtu (to Xubuntu)
@@ -24,6 +27,15 @@ Linux Distribution Timeline | CHANGELOGS
 * Discontinued: Ark Linux, 2XOS, 64 Studio, Satanic Edition, Qimo 4 Kids
 * Discontinued: ASLinux, Gibraltar, VLOS, AnikOS, p@xtreme, Ututo, Wolvix
 * Discontinued: Dragora, RIP, Mamona, Yoper Linux, Engarde
+* Discontinued: Danix, Kaella, Artistix, Damn Small Linux, Aquamorph
+* Discontinued: Poseidon, Neo Dizinha Linux, Swift, Molinux, Venenux
+* Discontinued: Tuquito, Epidemic, Aptosid, Estrealla Roja, Matriux
+* Discontinued: Doudou, GNUguitariNUX, srvRX Live, Resulinux, NepaLinux
+* Discontinued: PureOS, Inquisitor, Saline OS, Liquid Lemur, Snowlinux
+* Discontinued: Polippix, Aturix, PUD, Sabily, AV, Monomaxos, AriOS
+* Discontinued: Tango Studio, Descent|OS, SecUntu, StartOS, Newtoos
+* Discontinued: Toorox, Papug, Gentoox, OPhone, Openfiler
+* Blacklisted: Dax OS, Maryan, Zenix OS, Conducit, Joatha, Bardlinux, LDR
 * Thanks to: FabioLolix
 
 16.6 (2016-06-29)
