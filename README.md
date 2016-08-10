@@ -2,7 +2,7 @@ Linux Distribution Timeline | README
 ------------------------------------
 
 Copyright (C) 2010-2012 Andreas Lundqvist, Donjan Rodic
-Copyright (C) 2016 Konimex
+Copyright (C) 2016 Konimex and contributors
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3 or
