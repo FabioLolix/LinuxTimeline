@@ -1,6 +1,21 @@
 Linux Distribution Timeline | CHANGELOGS
 ========================================
 
+16.NEXT (2016-TBD)
+* Added: VyOS, Sailfish OS, Apricity OS, PoliArch, Yunohost
+* Renamed: Mint to Linux Mint
+* Fixed: Link for Vyatta
+* Discontinued: Danix, Kaella, Artistix, Damn Small Linux, Aquamorph
+* Discontinued: Poseidon, Neo Dizinha Linux, Swift, Molinux, Venenux
+* Discontinued: Tuquito, Epidemic, Aptosid, Estrealla Roja, Matriux
+* Discontinued: Doudou, GNUguitariNUX, srvRX Live, Resulinux, NepaLinux
+* Discontinued: PureOS, Inquisitor, Saline OS, Liquid Lemur, Snowlinux
+* Discontinued: Polippix, Aturix, PUD, Sabily, AV, Monomaxos, AriOS
+* Discontinued: Tango Studio, Descent|OS, SecUntu, StartOS, Newtoos
+* Discontinued: Toorox, Papug, Gentoox, OPhone, Openfiler
+* Blacklisted: Dax OS, Maryan, Zenix OS, Conducit, Joatha, LDR
+* Thanks to: FabioLolix
+
 16.8 (2016-08-10)
 * Added: Untangle, OpenMandriva Lx, Tanglu, Ubuntu DesktopPack, Voyager
 * Added: Runtu, Endian, Rescatux, Lakka, LibreELEC, LEDE-Project
