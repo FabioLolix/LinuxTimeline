@@ -62,4 +62,22 @@ explain it again.
 4: Developer & code sharing, project merging
    (e.g. Maemo to MeeGo)
 
+DEAD DISTROS
+============
+
+People get bored with maintaining a dead distro with no interest from
+the Linux community. Some of them have announcements on whether they
+will discontinue it, or just killing it silently, or even better,
+killing the whole website. What to do in these kinds of situation?
+
+1. If the distro has an announcement or statement on discontinuing the
+   distro, use the announcement date as stop date
+2. If the distro has no news since last release but still have a pretty
+   much active forums/community (even small), consider it active.
+3. If it has no information of forums, but the website is active, and
+   if it has no release since 3 years after its latest stable release,
+   put the stop date on latest stable release + 3 years
+4. If the website is dead and there's no other information, put the
+   stop date on last stable release + 1 year
+
 Sorry for my bad writing, and this is still a work in progress.
