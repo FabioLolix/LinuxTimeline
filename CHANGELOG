@@ -3,7 +3,7 @@ Linux Distribution Timeline | CHANGELOGS
 
 16.NEXT (2016-TBD)
 * Added: VyOS, Sailfish OS, Apricity OS, PoliArch, Yunohost
-* Added: ChromeOS, CloudReady, NayuOS
+* Added: ChromeOS, CloudReady, NayuOS, RancherOS, Noop
 * Renamed: Mint to Linux Mint
 * Fixed: Link for Vyatta
 * Fixed: Ubuntu DesktopPack start date
@@ -14,7 +14,9 @@ Linux Distribution Timeline | CHANGELOGS
 * Discontinued: PureOS, Inquisitor, Saline OS, Liquid Lemur, Snowlinux
 * Discontinued: Polippix, Asturix, PUD, Sabily, Monomaxos, AriOS
 * Discontinued: Toorox, Papug, Gentoox, OPhone, Openfiler
+* Discontinued: Phinx, Granular, Tinyme, SAM
 * Blacklisted: Dax OS, Maryan, Zenix OS, Conducit, Joatha, LDR, srvRX Live
+* Blacklisted: AnikOS, Firefly
 * Thanks to: FabioLolix
 
 16.8 (2016-08-10)
@@ -34,7 +36,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Fixed: Ututo to Gentoo-based distribution
 * Fixed: Engarde to Red Hat-based distribution
 * Fixed: Rip to Slackware-based distribution
-* Discontinued: KahelOS, LDR, CTKARch, Aurora OS, EasyPeasy, Symphony OS
+* Discontinued: KahelOS, LDR, CTKARch, Aurora OS, EasyPeasy
 * Discontinued: Element, Fluxbuntu, GnackTrack, Ubuntu Rescue Remix
 * Discontinued: Comfusion, U-Lite, Dream Studio, MoonOS, OpenGeu, Kiwi Linux
 * Discontinued: Ark Linux, 2XOS, 64 Studio, Satanic Edition, Qimo 4 Kids
