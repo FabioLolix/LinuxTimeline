@@ -1,3 +1,5 @@
+# NOTICE: Because I can't maintain the timeline (mostly because lack of time) I'll transfer this repo to anyone interested to maintain this repo. Send a pull request adding your copyright to README.md directly below me and contributors and we'll get in touch.
+
 Linux Distribution Timeline | README
 ------------------------------------
 
