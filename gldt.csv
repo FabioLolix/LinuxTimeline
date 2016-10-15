@@ -746,6 +746,8 @@
 "C","2005.8.20","CentOS",,"e-smith","2","#6f4376",,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "C",2014.09.00,"Netrunner",,"Netrunner Rolling",2,"#5997de",,,,,,,,,,
+"C",2016.03.00,"OpenELEC",,"LibreELEC",1,"#000CB5",,,,,,,,,,
+"C",2016.06.03,"OpenWRT",,"Lede Project",1,"#607891",,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Domains",,,,,,,,,,,,,,,
 "#","Distribution","Color","Intensity",,,,,,,,,,,,,
