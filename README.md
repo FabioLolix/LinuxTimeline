@@ -1,10 +1,9 @@
-# NOTICE: Because I can't maintain the timeline (mostly because lack of time) I'll transfer this repo to anyone interested to maintain this repo. Send a pull request adding your copyright to README.md directly below me and contributors and we'll get in touch.
-
 Linux Distribution Timeline | README
 ------------------------------------
 
 Copyright (C) 2010-2012 Andreas Lundqvist, Donjan Rodic
 Copyright (C) 2016 Konimex and contributors
+Copyright (C) 2016 Fabio Loli
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3 or
