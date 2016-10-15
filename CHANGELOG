@@ -2,6 +2,8 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 16.NEXT (2016-TBD)
+* Discontinued: Matriux, Macpup
+* Blacklisted: P@xtreme
 
 16.10 (2016-10-16)
 * Added: VyOS, Sailfish OS, Apricity OS, PoliArch, Yunohost
