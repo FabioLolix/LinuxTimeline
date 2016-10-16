@@ -19,7 +19,7 @@ GC=
 PROJNAME='gldt'
 
 # Which files to include into the archive
-DISTFILES='gldt.csv gldt.conf CHANGELOG README.md LICENSE images build.sh'
+DISTFILES='gldt.csv gldt.conf CHANGELOG README.md LICENSE images build.sh CHECK CONTRIBUTING'
 
 #
 ##########
