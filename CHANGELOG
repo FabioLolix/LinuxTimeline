@@ -2,12 +2,15 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 16.NEXT (2016-TBD)
-* Added: Clear Linux
-* Discontinued: Matriux, Macpup, Liberté
+* Added: Clear Linux, SolusOS
+* Renamed: Linux Mint Debian to Linux Mint Debian Edition
+* Discontinued: Matriux, Macpup, Liberté, SolusOS
 * Blacklisted: P@xtreme
+* Connector: Linux Mint Debian -> Linux Mint Debian Edition
 * Connector: Netrunner -> Netrunner Rolling
 * Connector: OpenELEC -> LibreELEC
 * Connector: OpenWRT -> Lede Project
+* Connector: Linux Mint Debian Edition -> SolusOS
 
 16.10 (2016-10-16)
 * Added: VyOS, Sailfish OS, Apricity OS, PoliArch, Yunohost
