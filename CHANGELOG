@@ -7,13 +7,16 @@ Linux Distribution Timeline | CHANGELOGS
 * Renamed: Maui OS to Hawaii OS
 * Discontinued: Matriux, Macpup, Liberté, SolusOS
 * Blacklisted: P@xtreme
-* Connector: Linux Mint Debian -> Linux Mint Debian Edition
-* Connector: Netrunner -> Netrunner Rolling
-* Connector: OpenELEC -> LibreELEC
-* Connector: OpenWRT -> Lede Project
-* Connector: Linux Mint Debian Edition -> SolusOS
-* Connector: Netrunner -> Maui Linux
-* Connector: Debian -> Netrunner
+* Connectors:
+* Added: Connector 1 Clear Linux -> Solus
+* Added: Connector 2 Debian -> Netrunner
+* Added: Connector 2 Linux Mint -> Linux Mint Debian Edition
+* Added: Connector 1 Linux Mint Debian Edition -> SolusOS
+* Added: Connector 2 Netrunner -> Netrunner Rolling
+* Added: Connector 2 Netrunner -> Maui Linux
+* Added: Connector 1 OpenELEC -> LibreELEC
+* Added: Connector 1 OpenWRT -> Lede Project
+* Removed Connector Gentoo -> ChromiumOS
 
 16.10 (2016-10-16)
 * Added: VyOS, Sailfish OS, Apricity OS, PoliArch, Yunohost
@@ -62,13 +65,13 @@ Linux Distribution Timeline | CHANGELOGS
 * Added: NethServer, PrimTux, UberStudent, HandyLinux, Baruwa, Rockstor
 * Added: Parrot, Point, Sparky, PC/OS
 * Discontinued: Yellow Dog
-* Connector: Ubuntu -> PC/OS
+* Added: Connector 2 Ubuntu -> PC/OS
 * Fixed: Link for Manjaro (Thanks to Linuxing155)
 
 16.5 (2016-05-24)
 * Added: ChaletOS, ExTiX, Univention, AryaLinux, Rebellin, Slackel
 * Added: RoboLinux, Plamo, SELKS, TurnKey
-* Added: Connector 2 from Debian to Pardus
+* Added: Connector 2 Debian -> Pardus
 * Readded: JOPUX
 * Discontinued: Pear OS, Nova, Commodore OS, MeeGo, OS2005
 * Fixed: Nova to Enoch-based distribution
