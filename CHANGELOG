@@ -2,8 +2,9 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 16.NEXT (2016-TBD)
-* Added: Clear Linux, SolusOS
+* Added: Clear Linux, SolusOS, Maui OS, Maui Linux
 * Renamed: Linux Mint Debian to Linux Mint Debian Edition
+* Renamed: Maui OS to Hawaii OS
 * Discontinued: Matriux, Macpup, Liberté, SolusOS
 * Blacklisted: P@xtreme
 * Connector: Linux Mint Debian -> Linux Mint Debian Edition
@@ -11,6 +12,8 @@ Linux Distribution Timeline | CHANGELOGS
 * Connector: OpenELEC -> LibreELEC
 * Connector: OpenWRT -> Lede Project
 * Connector: Linux Mint Debian Edition -> SolusOS
+* Connector: Netrunner -> Maui Linux
+* Connector: Debian -> Netrunner
 
 16.10 (2016-10-16)
 * Added: VyOS, Sailfish OS, Apricity OS, PoliArch, Yunohost
