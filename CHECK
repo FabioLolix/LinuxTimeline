@@ -8,21 +8,30 @@ If anything on this list is past their expiration date as defined in
 CONTRIBUTING, you may delete them from this list, and discontinue their
 distro as per the guidelines.
 
+2011
+====
+OpenEmbedded 2011.03
+Development status: Active
+http://cgit.openembedded.org/
+
+
 2012
 ====
 
 Damn Small Linux
-Forum status: Active
 Last relelase: 4.11rc2 2012.09.27
-http://distro.ibiblio.org/damnsmall/
-
-Aptosid
-Last release: 2012.12.1
 Forum status: Active
+http://distro.ibiblio.org/damnsmall/
 
 
 2013
 ====
+
+Aptosid
+Last release: 2013.01 2013/05/05
+Forum status: Active
+http://www.aptosid.com/index.php?module=Content&func=view&pid=2
+http://aptosid.office-vienna.at/aptosid/release/
 
 Doudou
 Last release: 2.1 2013-12-06
