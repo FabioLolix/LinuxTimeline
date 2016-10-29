@@ -5,8 +5,10 @@ Linux Distribution Timeline | CHANGELOGS
 * Added: Clear Linux, SolusOS, Maui OS, Maui Linux
 * Renamed: Linux Mint Debian to Linux Mint Debian Edition
 * Renamed: Maui OS to Hawaii OS
+* Renamed: 0 to 0Linux
 * Discontinued: Matriux, Macpup, Liberté, SolusOS, Mepis
 * Blacklisted: P@xtreme
+* Changed: Link for 0Linux
 * Connectors:
 * Added: Connector 1 Clear Linux -> Solus
 * Added: Connector 2 Debian -> Netrunner
