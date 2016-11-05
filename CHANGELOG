@@ -3,11 +3,12 @@ Linux Distribution Timeline | CHANGELOGS
 
 16.NEXT (2016-TBD)
 * Added: Clear Linux, SolusOS, Maui OS, Maui Linux
+* Added: Android-IA, Android-x86, Remix OS, Phoenix OS
 * Renamed: Linux Mint Debian to Linux Mint Debian Edition
 * Renamed: Maui OS to Hawaii OS
 * Renamed: 0 to 0Linux
 * Discontinued: Matriux, Macpup, Liberté, SolusOS, Mepis
-* Blacklisted: P@xtreme
+* Blacklisted: P@xtreme, Ophone
 * Changed: Link for 0Linux
 * Connectors:
 * Added: Connector 1 Clear Linux -> Solus
@@ -18,7 +19,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Added: Connector 2 Netrunner -> Maui Linux
 * Added: Connector 1 OpenELEC -> LibreELEC
 * Added: Connector 1 OpenWRT -> Lede Project
-* Removed Connector Gentoo -> ChromiumOS
+* Removed: Connector Gentoo -> ChromiumOS
 
 16.10 (2016-10-16)
 * Added: VyOS, Sailfish OS, Apricity OS, PoliArch, Yunohost
