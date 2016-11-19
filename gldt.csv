@@ -248,7 +248,7 @@
 "N","OpenMediaVault","#75777a","Debian","2011.10.17",,,"http://www.openmediavault.org/",,,,,,,,,
 "N","TurnKey","#d49773","Debian","2011.12.6",,,"http://www.turnkeylinux.org",,,,,,,,,
 "#N","srvRX live","#000","Debian","2012.3.10","2013.03.10",,"http://sourceforge.net/projects/srvrx/",,,,,,,,,
-"// N","AtlasX","#447788","Debian","2012.4.1",,,"http://www.atlasx.org/",,,,,,,,,
+"#N","AtlasX","#447788","Debian","2012.4.1",,,"http://archiveos.org/atlasx/",,,,,,,,,
 "N","Xamin","#448bb8","Debian","2012.5.14",,,"http://xamin.ir/",,,,,,,,,
 "N","YunoHost","#111111","Debian","2012.5.31",,,"http://yunohost.org/",,,,,,,,,
 "N","LinuxBBQ","#ffea3c","Debian","2012.6.1",,,"http://linuxbbq.org/",,,,,,,,,
