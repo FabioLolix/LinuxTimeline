@@ -22,6 +22,7 @@ If you want to build your own version, make sure you have gnuclad
 installed.
 
 To install gnuclad, you can download it at https://launchpad.net/gnuclad
+
 For Arch users, use the AUR: https://aur.archlinux.org/packages/gnuclad/
 
 After you have installed gnuclad, to build just the svg, run:
