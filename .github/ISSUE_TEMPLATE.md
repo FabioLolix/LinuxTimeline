@@ -1,12 +1,28 @@
-**NOTE: If the issue is NOT about adding/discontinuing a distro, delete
-these out.**
+**Template for adding/discontinuing a distro, all non optional fields are mandatory**
 
-Distro name*:
+*NOTE: If the issue is NOT about adding/discontinuing a distro, delete these out.*
 
-Start date*:
+**Adding a distro**
 
-Stop date:
+* Distro name:
 
-URL*:
+* Base distro:
 
-*Must be filled out.
+* Start date:
+
+* URL:
+
+* (optional) Color in hex:
+
+* (optional) Description:
+
+
+**Discontinuing a distro**
+
+* Distro name:
+
+* Stop date:
+
+* Statement URL (if any):
+
+

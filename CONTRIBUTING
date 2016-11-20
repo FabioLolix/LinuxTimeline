@@ -7,20 +7,21 @@ how to contribute to this project. You are not obliged to follow this,
 but you'll ease my job if you do. :)
 
 
-I'm too lazy to do a pull request, can I do it the other way?
-=============================================================
-Sure. Just open an Issue in GitHub and just fill in the formats. I'll
-include it.
+Open an issue on github
+=======================
+Just open an Issue in GitHub and fill in the template. 
 
-If you don't want to open a GitHub account, send an e-mail to me
-containing an information of the distro you want to add/discontinue.
+If you don't want to open a GitHub account leave a comment on blogspot
+https://fabiololix.blogspot.it/2016/08/linux-distribution-timeline.html
 
-I'm okay with a pull request
-============================
-Good, proceed below.
+or contact me on Twitter or Manjaro forum
+https://twitter.com/Fabio_Lolix
+https://forum.manjaro.org/users/Lolix/
 
-Formatting
+
+Pull Request on github, proceed below
 ==========
+Formatting
 
 Since we're working with CSV format, you can fill the right column
 rather easily, since it is self-explanatory.
@@ -106,4 +107,8 @@ to happen again:
 2. If the discontinued distro's maintainers doesn't decide on successors,
    then use the usual forking.
 
-Sorry for my bad writing, and this is still a work in progress.
+
+P.S.
+====
+Please avoid fuss about GNU/Linux vs Linux and GNU/Linux vs Android
+This will **maybe** be sorted out in the future
