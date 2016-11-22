@@ -2,7 +2,8 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 Next (TBD)
-* Added: Keysoft, Parted Magic, Pisi Linux
+* Added: Keysoft, Parted Magic, Pisi Linux, Porteus Kiosk
+* Added: Connector 2 Porteus -> Porteus Kiosk
 * Discontinued: Mythbuntu
 * Fixed: Placement for Mamona 
 
