@@ -1,5 +1,5 @@
-gldt.svg
-gldt*.svg
+*.svg
+*.png
 .~lock.gldt.csv#
 DIST_gldt
-gldt*.png
+
