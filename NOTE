@@ -1,0 +1,38 @@
+
+The OpenEmbedded-Core Project
+OE-Core for short, resulted from the merge of the Yocto Project with OpenEmbedded
+
+
+OpenEmbedded
+http://www.openembedded.org/
+Is a software framework to create embedded Linux distributions
+
+
+Yocto Project
+https://www.yoctoproject.org/
+It's a complete embedded Linux development environment
+
+
+Ångström
+http://wp.angstrom-distribution.org/
+Angstrom is using OpenEmbedded as buildsystem and heavily uses its layer features.
+Yocto Poject Partecipant and Compatible
+
+
+Some Yocto/OpenEmbedded-Core projects:
+
+Poky
+Poky is a 'reference system' of the Yocto Project
+
+KaeilOS
+http://www.kaeilos.com/
+
+OpenMoko
+
+SlugOS
+
+
+https://en.wikipedia.org/wiki/OpenEmbedded
+https://en.wikipedia.org/wiki/Yocto_Project
+https://en.wikipedia.org/wiki/%C3%85ngstr%C3%B6m_distribution
+git clone git://git.openembedded.org/openembedded
