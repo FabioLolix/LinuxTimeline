@@ -1,7 +1,7 @@
 Linux Distribution Timeline | README
 ------------------------------------
 
-* Copyright (C) 2010-2012 Andreas Lundqvist, Donjan Rodic
+* Copyright (C) 2010-2012 Andreas Lundqvist, Donjan Rodic, Mohammed A. Mustafa
 * Copyright (C) 2016 Konimex
 * Copyright (C) 2016 Fabio Loli
 
