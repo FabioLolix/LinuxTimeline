@@ -1,3 +1,22 @@
+# Note
+
+***
+
+Splitted Gentoo-based Kororaa and Fedora-based Kororaa (later Korora)
+
+Fedora-based Kororaa wrongly names Korora from start since double names with connectors don't render properly
+
+Kororaa has been discontinued with statement for more then 3 years
+
+Original line below:
+
+"N","Kororaa","#706f7f","Enoch","2005.12.12",,,"http://en.wikipedia.org/wiki/Kororaa","Korora","2013.5.2","http://kororaproject.org/",,,,,,
+
+More info:
+
+http://en.wikipedia.org/wiki/Kororaa
+
+***
 
 The OpenEmbedded-Core Project
 OE-Core for short, resulted from the merge of the Yocto Project with OpenEmbedded
