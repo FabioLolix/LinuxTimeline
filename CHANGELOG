@@ -10,6 +10,7 @@ Next (TBD)
 * Added: Connector 2 OpenSUSE -> Linkat
 * Added: Connector 2 Ubuntu -> Linkat
 * Added: Connector 2 OpenSUSE -> Stresslinux
+* Added: Connector 1 LEAF -> Alpine
 * Renamed: CoreOS to Container Linux
 * Renamed: Astaro to Sophos UTM
 * Discontinued: Mythbuntu, Netrunner Rolling, DoudouLinux
@@ -20,6 +21,7 @@ Next (TBD)
 * Fixed: United Linux to SUSE-based distribution
 * Fixed: Splitted Kororaa and Korora
 * Fixed: Links for SUSE
+* Fixed: LEAF to Linux Router Project-based distribution
 
 16.11 (2016-11-05)
 * Added: Clear Linux, SolusOS, Maui OS, Maui Linux
