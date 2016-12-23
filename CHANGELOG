@@ -14,6 +14,7 @@ Next (TBD)
 * Renamed: CoreOS to Container Linux
 * Renamed: Astaro to Sophos UTM
 * Discontinued: Mythbuntu, Netrunner Rolling, DoudouLinux
+* Discontinued: aLinux
 * Removed: OpenEmbedded (not a distribution)
 * Fixed: Placement for Mamona 
 * Fixed: Volumio/Raspyfi start date and original name
