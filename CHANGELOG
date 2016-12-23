@@ -11,6 +11,7 @@ Next (TBD)
 * Added: Connector 2 Ubuntu -> Linkat
 * Added: Connector 2 OpenSUSE -> Stresslinux
 * Added: Connector 1 LEAF -> Alpine
+* Added: Connector 1 Linux From Scratch -> CRUX
 * Added: Domain for Gentoo, Arch, Android
 * Renamed: CoreOS to Container Linux
 * Renamed: Astaro to Sophos UTM
