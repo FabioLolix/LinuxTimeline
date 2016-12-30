@@ -625,7 +625,7 @@
 ,,,,,,,,,,,,,,,,
 "N","noop","#303030",,"2012.7.20",,,"http://www.nooplinux.org/",,,,,,,,,
 "N","Bedrock","#00b070",,"2012.8.3",,,"http://bedrocklinux.org/",,,,,,,,,
-"N","GuixSD","FFCB01",,"2012.11.22",,,"https://www.gnu.org/software/guix/",,,,,,,,,
+"N","GuixSD","#ffcb01",,"2012.11.22",,,"https://www.gnu.org/software/guix/",,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "N","Pisi Linux","#D1007C",,"2014.11.05",,,"http://www.pisilinux.org/",,,,,,,,,
 ,,,,,,,,,,,,,,,,
