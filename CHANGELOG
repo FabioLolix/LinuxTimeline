@@ -4,6 +4,9 @@ Linux Distribution Timeline | CHANGELOGS
 Next (TBD)
 * Added: GuixSD, LineageOS, SteamOS
 * Discontinued: CyanogenMod, Cyanogen OS
+* Renamed: BU to BU Linux
+* Fixed: BU link
+* Fixed: Android-x86 start date
 
 16.12 (2016-12-25)
 * Added: Keysoft, Parted Magic, Pisi Linux, Porteus Kiosk
