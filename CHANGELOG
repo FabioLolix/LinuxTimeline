@@ -3,9 +3,11 @@ Linux Distribution Timeline | CHANGELOGS
 
 Next (TBD)
 * Added: GuixSD, LineageOS, SteamOS
+* Added: Connector 2 ParallelKnoppix -> PelicanHPC
 * Discontinued: CyanogenMod, Cyanogen OS
 * Renamed: BU to BU Linux
 * Fixed: BU link
+* Fixed: PelicanHPC link
 * Fixed: Android-x86 start date
 
 16.12 (2016-12-25)
