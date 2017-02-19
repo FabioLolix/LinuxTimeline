@@ -11,6 +11,7 @@ Next (TBD)
 * Fixed: Android-x86 start date
 * Fixed: Kaos to indipendent distribution
 * Fixed: SolusOS to Debian-based distribution
+* Fixed: Moode to Raspbian-based distribution
 
 16.12 (2016-12-25)
 * Added: Keysoft, Parted Magic, Pisi Linux, Porteus Kiosk
