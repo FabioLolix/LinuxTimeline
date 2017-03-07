@@ -6,8 +6,9 @@ Next (TBD)
 * Added: Android Things/Project Brillo, Android Wear
 * Added: GalliumOS
 * Added: Connector 2 ParallelKnoppix -> PelicanHPC
-* Discontinued: CyanogenMod, Cyanogen OS, Descent|OS
+* Discontinued: Cyanogen OS, Descent|OS
 * Renamed: BU to BU Linux
+* Renamed: CyanogenMod to LineageOS
 * Fixed: BU link
 * Fixed: PelicanHPC link
 * Fixed: Android-x86 start date
