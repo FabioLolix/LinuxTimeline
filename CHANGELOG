@@ -18,6 +18,7 @@ Next (TBD)
 * Fixed: SolusOS to Debian-based distribution
 * Fixed: Moode to Raspbian-based distribution
 * Fixed: Link for Manjaro
+* Fixed: Link for Musix
 
 16.12 (2016-12-25)
 * Added: Keysoft, Parted Magic, Pisi Linux, Porteus Kiosk
@@ -38,7 +39,7 @@ Next (TBD)
 * Discontinued: aLinux, Coyote
 * Blacklisted: Hadron, Igelle
 * Removed: OpenEmbedded (not a distribution)
-* Fixed: Placement for Mamona 
+* Fixed: Placement for Mamona
 * Fixed: Volumio/Raspyfi start date and original name
 * Fixed: SUSE editions
 * Fixed: United Linux to SUSE-based distribution
