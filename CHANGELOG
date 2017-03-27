@@ -14,15 +14,17 @@ Next (TBD)
 * Renamed: BU to BU Linux
 * Renamed: CyanogenMod to LineageOS
 * Renamed: Unity to Unity Linux
-* Fixed: BU link
-* Fixed: PelicanHPC link
-* Fixed: Android-x86 start date
 * Fixed: Kaos to indipendent distribution
 * Fixed: SolusOS to Debian-based distribution
 * Fixed: Moode to Raspbian-based distribution
-* Fixed: Link for Manjaro
-* Fixed: Link for Musix
+* Fixed: link for BU Linux
+* Fixed: link for PelicanHPC
+* Fixed: link for Manjaro
+* Fixed: link for Musix (thanks to Bururik)
 * Fixed: link for Syllable Server
+* Fixed: start date for Android-x86
+* Fixed: start date for Rockstor (thanks to Mirko Arena)
+* Fixed: typo in gldt.csv (thanks to Michael McMahon)
 
 16.12 (2016-12-25)
 * Added: Keysoft, Parted Magic, Pisi Linux, Porteus Kiosk
