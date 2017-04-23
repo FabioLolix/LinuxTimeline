@@ -12,7 +12,10 @@ Next (TBD)
 * Added: Connector 2 LibreELEC -> Lakka
 * Discontinued: Cyanogen OS, Descent|OS, Unity Linux
 * Discontinued: Mer, Red Ribbon
-* Blacklisted: ChameleonOS
+* Blacklisted: ChameleonOS, DSN-N, Shabdix, Bioknoppix
+* Blacklisted: miniwoody, UserLinux, quantOS, Beatrix
+* Blacklisted: Tirwal, Virtual, Haydar, LinuxInstall
+* Blacklisted: BioBrew, FrameOS, Bintoo, Oz
 * Renamed: BU to BU Linux
 * Renamed: CyanogenMod to LineageOS
 * Renamed: Unity to Unity Linux
