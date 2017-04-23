@@ -11,7 +11,7 @@ Next (TBD)
 * Added: Connector 2 ParallelKnoppix -> PelicanHPC
 * Added: Connector 2 LibreELEC -> Lakka
 * Discontinued: Cyanogen OS, Descent|OS, Unity Linux
-* Discontinued: Mer
+* Discontinued: Mer, Red Ribbon
 * Blacklisted: ChameleonOS
 * Renamed: BU to BU Linux
 * Renamed: CyanogenMod to LineageOS
@@ -26,6 +26,7 @@ Next (TBD)
 * Fixed: link for Manjaro
 * Fixed: link for Musix (thanks to Bururik)
 * Fixed: link for Syllable Server
+* Fixed: link for Bridge
 * Fixed: start date for Android-x86
 * Fixed: start date for Rockstor (thanks to Mirko Arena)
 * Fixed: typo in gldt.csv (thanks to Michael McMahon)
