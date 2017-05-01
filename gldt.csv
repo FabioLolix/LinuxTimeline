@@ -637,6 +637,8 @@
 "N","4M","#888",,"2010.10.10",,,"http://www.4mlinux.com/",,,,,,,,,
 "#N","Hadron","#00aadd",,"2011.5.17",,,"http://hadronproject.org/",,,,,,,,,
 ,,,,,,,,,,,,,,,,
+"N","AOSC OS","#000",,"2011.11.19",,,"https://aosc.io/",,,,,,,,,
+,,,,,,,,,,,,,,,,
 "N","noop","#303030",,"2012.7.20",,,"http://www.nooplinux.org/",,,,,,,,,
 "N","Bedrock","#00b070",,"2012.8.3",,,"http://bedrocklinux.org/",,,,,,,,,
 "N","GuixSD","#ffcb01",,"2012.11.22",,,"https://www.gnu.org/software/guix/",,,,,,,,,
