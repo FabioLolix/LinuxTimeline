@@ -14,7 +14,8 @@ Next (TBD)
 * Added: Connector 2 LibreELEC -> Lakka
 * Discontinued: Cyanogen OS, Descent|OS, Unity Linux
 * Discontinued: Mer, Red Ribbon, Apricity
-* Blacklisted: ChameleonOS, DSN-N, Shabdix, Bioknoppix
+* Blacklisted: ChameleonOS (thanks to JulienAMOURIQ)
+* Blacklisted: DSN-N, Shabdix, Bioknoppix
 * Blacklisted: miniwoody, UserLinux, quantOS, Beatrix
 * Blacklisted: Tirwal, Virtual, Haydar, LinuxInstall
 * Blacklisted: BioBrew, FrameOS, Bintoo, Oz
@@ -23,7 +24,7 @@ Next (TBD)
 * Renamed: Unity to Unity Linux
 * Renamed: Budgie Remix to Ubuntu Budgie
 * Renamed: PUIAS to Springdale Linux
-* Fixed: Kaos to indipendent distribution
+* Fixed: Kaos to indipendent distribution (thanks to ShalokShalom)
 * Fixed: SolusOS to Debian-based distribution
 * Fixed: Moode to Raspbian-based distribution
 * Fixed: link for BU Linux
@@ -47,7 +48,7 @@ Next (TBD)
 * Added: Connector 2 Ubuntu -> Linkat
 * Added: Connector 2 OpenSUSE -> Stresslinux
 * Added: Connector 1 LEAF -> Alpine
-* Added: Connector 1 Linux From Scratch -> CRUX
+* Added: Connector 1 Linux From Scratch -> CRUX (thanks to Mathnerd314)
 * Added: Domain for Gentoo, Arch, Android
 * Renamed: CoreOS to Container Linux
 * Renamed: Astaro to Sophos UTM
