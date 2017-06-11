@@ -13,6 +13,7 @@ Next (TBD)
 * Added: Knopperdisk (discontinued)
 * Added: Connector 2 ParallelKnoppix -> PelicanHPC
 * Added: Connector 2 LibreELEC -> Lakka
+* Added: Connector 4 SolusOS -> Evolve OS/Solus
 * Discontinued: Cyanogen OS, Descent|OS, Unity Linux
 * Discontinued: Mer, Red Ribbon, Apricity
 * Discontinued: Madbox, Musix
@@ -35,6 +36,9 @@ Next (TBD)
 * Renamed: Budgie Remix to Ubuntu Budgie
 * Renamed: PUIAS to Springdale Linux
 * Renamed: Skolelinux to DebianEdu
+* Renamed: XBMC Live to XBMCbuntu
+* Renamed: Xange to eZeY
+* Renamed: LPS to TENS
 * Fixed: Kaos to indipendent distribution (thanks to ShalokShalom)
 * Fixed: SolusOS to Debian-based distribution
 * Fixed: Moode to Raspbian-based distribution
@@ -44,6 +48,10 @@ Next (TBD)
 * Fixed: link for Musix (thanks to Bururik)
 * Fixed: link for Syllable Server
 * Fixed: link for Bridge
+* Fixed: link for Slackware ARM
+* Fixed: link for Parsidore
+* Fixed: link for Viperr
+* Fixed: link for Chakra
 * Fixed: start date for Android-x86
 * Fixed: start date for Rockstor (thanks to Mirko Arena)
 * Fixed: typo in gldt.csv (thanks to Michael McMahon)
