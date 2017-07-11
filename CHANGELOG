@@ -21,7 +21,7 @@ Next (TBD)
 * Discontinued: Imagineos, Slack/390, Agilialinux
 * Discontinued: pQui, Slackintosh, Bluewhite64, Draco
 * Discontinued: PLATYPUX, Kongoni, Linvo, Bayanihan
-* Discontinued: Blag, Berry, Momonga, Ekaaty, StartCom
+* Discontinued: Blag, Momonga, Ekaaty, StartCom
 * Discontinued: FREESCO, dyne:bolic, GeeXboX, Legacy OS
 * Discontinued: Sage Live CD, Syllable Server
 * Blacklisted: ChameleonOS (thanks to JulienAMOURIQ)
@@ -52,6 +52,7 @@ Next (TBD)
 * Fixed: link for Parsidore
 * Fixed: link for Viperr
 * Fixed: link for Chakra
+* Fixed: link for Berry
 * Fixed: start date for Android-x86
 * Fixed: start date for Rockstor (thanks to Mirko Arena)
 * Fixed: typo in gldt.csv (thanks to Michael McMahon)
