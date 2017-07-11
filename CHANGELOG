@@ -11,12 +11,13 @@ Next (TBD)
 * Added: AOSC OS (thanks to MingcongBai)
 * Added: wtfplay-live, LuneOS
 * Added: Knopperdisk (discontinued)
+* Added: LineageOS
 * Added: Connector 2 ParallelKnoppix -> PelicanHPC
 * Added: Connector 2 LibreELEC -> Lakka
 * Added: Connector 4 SolusOS -> Evolve OS/Solus
-* Discontinued: Cyanogen OS, Descent|OS, Unity Linux
+* Discontinued: Cyanogen OS, CyanogenMod , Unity Linux
 * Discontinued: Mer, Red Ribbon, Apricity
-* Discontinued: Madbox, Musix
+* Discontinued: Madbox, Musix, Descent|OS
 * Discontinued: DNALinux, SLAMPP, Topologilinux, Stux
 * Discontinued: Imagineos, Slack/390, Agilialinux
 * Discontinued: pQui, Slackintosh, Bluewhite64, Draco
@@ -31,7 +32,6 @@ Next (TBD)
 * Blacklisted: BioBrew, FrameOS, Bintoo, Oz
 * Blacklisted: Sauver, Lin2Go, Jollix, Navyn OS
 * Renamed: BU to BU Linux
-* Renamed: CyanogenMod to LineageOS
 * Renamed: Unity to Unity Linux
 * Renamed: Budgie Remix to Ubuntu Budgie
 * Renamed: PUIAS to Springdale Linux
