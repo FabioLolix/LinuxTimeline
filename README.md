@@ -14,7 +14,7 @@ Original source: http://futurist.se/gldt/
 
 https://github.com/FabioLolix/LinuxTimeline
 
-##CONTRIBUTING
+## CONTRIBUTING
 
 See CONTRIBUTING
 
