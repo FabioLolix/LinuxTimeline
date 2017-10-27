@@ -69,6 +69,7 @@ Next (TBD)
 * Fixed: start date for Android-x86
 * Fixed: start date for Rockstor (thanks to Mirko Arena)
 * Fixed: typo in gldt.csv (thanks to Michael McMahon)
+* Fixed: typo in readme.md (thanks to Ron Korving)
 
 16.12 (2016-12-25)
 * Added: Keysoft, Parted Magic, Pisi Linux, Porteus Kiosk

@@ -12,18 +12,18 @@ Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
 Original source: http://futurist.se/gldt/
 
-https://github.com/FabioLolix/LinuxTimeline
+Current source: https://github.com/FabioLolix/LinuxTimeline
 
-## CONTRIBUTING
+### CONTRIBUTING
 
-See CONTRIBUTING
+See [CONTRIBUTING](https://github.com/FabioLolix/LinuxTimeline/blob/master/CONTRIBUTING)
 
-#### Installation
+### Installation
 
 If you want to build your own version, make sure you have gnuclad
 installed.
 
-To install gnuclad, you can download it at https://launchpad.net/gnuclad
+To install gnuclad, you can download the source at https://launchpad.net/gnuclad
 
 For Arch users, use the AUR: https://aur.archlinux.org/packages/gnuclad/
 
