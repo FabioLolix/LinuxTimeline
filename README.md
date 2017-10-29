@@ -32,4 +32,4 @@ After you have installed gnuclad, to build just the svg, run:
     gnuclad gldt.csv SVG gldt.conf
 
 You can run the script `build.sh` to build the svg, png, and the tarball
-containing the source.
+containing the source, Inkscape is required to convert from svg to png.
