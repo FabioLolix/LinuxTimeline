@@ -15,7 +15,6 @@ distro as per the guidelines.
 
 Distro          Latest release  version
 =======================================
-Parsidora       2014-07-15      20
 Deli(cate)      2014-07-16      alpha 5
 XBMCbuntu       2014-08-07      13.0
 Deft            2014-08-10
