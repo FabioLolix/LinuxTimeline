@@ -12,6 +12,7 @@ Next (TBD)
 * Renamed: Android Wear to Wear OS
 * Fixed: start & end date for Knopperdisk
 * Fixed: start date for Void (thanks to Aleppi)
+* Fixed: link for Sage Live (thanks to sergds)
 
 17.10 (2017-10-29)
 * Added: GuixSD, LineageOS, SteamOS, ToriOS, OSGeo-Live
