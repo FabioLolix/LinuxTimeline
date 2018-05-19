@@ -220,7 +220,7 @@
 "N","NepaLinux","#a02727","Debian","2005.12.22","2009.05.25",,"http://www.nepalinux.org/",,,,,,,,,
 "N","Resulinux","#ff6600","Debian","2005.1.25","2013.07.23",,"http://www.resulinux.net/",,,,,,,,,
 "N","Epidemic","#4da20f","Debian","2006.2.16","2016.03.05",,"http://www.epidemiclinux.org/",,,,,,,,,
-"N","Vyatta","#ff9933","Debian","2006.3",,,"http://www.brocade.com/","Brocade Vyatta vRouter","2013.04.00",,,,,,,
+"N","Vyatta","#ff9933","Debian","2006.3","2017.10.5",,"http://www.brocade.com/","Brocade Vyatta vRouter","2013.04.00",,,,,,,
 "N","VyOS","#E57D7D","Vyatta","2013.12.22",,,"http://vyos.net/",,,,,,,,,
 "N","Librassoc","#9999aa","Debian","2006.3.23","2008.1.18",,"http://www.librassoc.be/",,,,,,,,,
 "N","PureOS","#2337ff","Debian","2006.8.5","2014.03.03",,"http://pureos.org/",,,,,,,,,
