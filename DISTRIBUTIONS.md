@@ -18,7 +18,6 @@ Distro          Latest release  version
 Deft            2014-08-10
 Lunar Linux     2014-10-11
 Greenie         2014-11-23
-Zevenos         2014-12-31
 
 
 2015
