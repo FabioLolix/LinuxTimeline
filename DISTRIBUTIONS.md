@@ -25,7 +25,6 @@ Greenie         2014-11-23
 
 Distro			Latest release	version
 =======================================
-Hanthana        2015-04-16      21
 Crungbang++     2015-04-28      1.0
 Rocks           2015-05-11      6.2
 Finnix          2015-06-03      111 https://blog.finnix.org/2017/04/18/the-future-of-finnix/
