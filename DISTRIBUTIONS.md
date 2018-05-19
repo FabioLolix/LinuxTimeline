@@ -25,7 +25,6 @@ Greenie         2014-11-23
 
 Distro			Latest release	version
 =======================================
-Symphony OS		2015-02-01		15.0
 Bridge          2015-02-15
 IPCop           2015-02-23      2.1.9
 eZeY            2015-04-05
