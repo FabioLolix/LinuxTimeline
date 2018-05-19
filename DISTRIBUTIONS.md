@@ -33,16 +33,21 @@ Poliarch        2015-10-26      15.10
 
 Distro			Latest release	version
 ======================================
+Simplicity      2016-07-31      16.07
 Viperr          2016-08-15      0.9 (Fedora 24)
+Sonar           2016-11-02      17.01-alpha
 
 
 
 ## TODO
 
+
+### To add
+
 DietPi  (waiting reply)
 http://dietpi.com/
 
-Liri OS  (waiting reply) [alpha]
+Liri OS  (Arch) [alpha] (contacted 2x, waiting reply)
 https://github.com/lirios
 
 Fatdog 64
@@ -51,7 +56,7 @@ https://distrowatch.com/fatdog
 Subgraph OS
 https://distrowatch.com/subgraph
 
-Bitkey (debian)
+Bitkey (debian) (contacted 2x, waiting reply)
 https://distrowatch.com/bitkey
 
 Pearl Linux
@@ -74,6 +79,28 @@ https://distrowatch.com/kodachi
 
 Feren OS
 https://distrowatch.com/ferenos
+
+xBian (Debian) (contacted 2x, waiting reply)
+
+BlissOS (Android) (contacted 2x, waiting reply)
+
+Talking Arch (Arch) (contacted 2x their mailserver don't work)
+
+Arch Anywhere/Anarchy Linux (Arch) (contacted)
+
+
+### To remove
+
+Sonar GNU/Linux - website gone, when has stopped precisely?
+
+Simplicity Linux - website gone, when has stopped precisely?
+
+
+### More information needed
+
+0Linux - when has stopped precisely?
+
+Bridge - when has stopped precisely?
 
 
 ## Distribution list
