@@ -15,7 +15,6 @@ distro as per the guidelines.
 
 Distro          Latest release  version
 =======================================
-XBMCbuntu       2014-08-07      13.0
 Deft            2014-08-10
 Lunar Linux     2014-10-11
 Greenie         2014-11-23
