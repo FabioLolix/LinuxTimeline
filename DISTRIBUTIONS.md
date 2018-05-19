@@ -15,9 +15,7 @@ distro as per the guidelines.
 
 Distro          Latest release  version
 =======================================
-Deft            2014-08-10
-Lunar Linux     2014-10-11
-Greenie         2014-11-23
+Lunar Linux     2014-10-11      1.7.0   http://www.lunar-linux.org/2017/10/18/we-are-still-very-much-alive/ 
 
 
 2015
@@ -25,8 +23,6 @@ Greenie         2014-11-23
 
 Distro			Latest release	version
 =======================================
-Crungbang++     2015-04-28      1.0
-Rocks           2015-05-11      6.2
 Finnix          2015-06-03      111 https://blog.finnix.org/2017/04/18/the-future-of-finnix/
 Asianux         2015-07-24      7 Lotus
 Android-IA		2015-10-02		5.1.1
