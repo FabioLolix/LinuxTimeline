@@ -25,7 +25,6 @@ Greenie         2014-11-23
 
 Distro			Latest release	version
 =======================================
-eZeY            2015-04-05
 Hanthana        2015-04-16      21
 Crungbang++     2015-04-28      1.0
 Rocks           2015-05-11      6.2
