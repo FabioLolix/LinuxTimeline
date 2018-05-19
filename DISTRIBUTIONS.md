@@ -25,7 +25,6 @@ Greenie         2014-11-23
 
 Distro			Latest release	version
 =======================================
-Bridge          2015-02-15
 IPCop           2015-02-23      2.1.9
 eZeY            2015-04-05
 Hanthana        2015-04-16      21
