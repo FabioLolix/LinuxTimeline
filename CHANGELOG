@@ -21,6 +21,7 @@ Next (TBD)
 * Fixed: start date for Void (thanks to Aleppi)
 * Fixed: link for Sage Live (thanks to sergds)
 * Fixed: link for AV Linux
+* Fixed: normalized data (thanks to schcriher)
 
 17.10 (2017-10-29)
 * Added: GuixSD, LineageOS, SteamOS, ToriOS, OSGeo-Live
