@@ -1,25 +1,24 @@
-**Template for adding/discontinuing a distro, all non optional fields are mandatory**
-
 *NOTE: If the issue is NOT about adding/discontinuing a distro, delete these out.*
 
-**Adding a distro**
+**Adding a distribution**
 
-* Distro name:
+* Name:
 
-* Base distro:
+* Base:
 
 * Start date:
+
+* (eventual) Name changes with date: 
 
 * URL:
 
 * (optional) Color in hex:
 
-* (optional) Description:
+* (optional) Description and history: talk about the project, for adding to distributions.md
 
+**Discontinuing a distribution**
 
-**Discontinuing a distro**
-
-* Distro name:
+* Name:
 
 * Stop date:
 
