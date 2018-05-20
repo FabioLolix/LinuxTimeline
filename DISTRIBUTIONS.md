@@ -13,29 +13,29 @@ distro as per the guidelines.
 2014
 ====
 
-Distro          Latest release  version
-=======================================
-Lunar Linux     2014-10-11      1.7.0   http://www.lunar-linux.org/2017/10/18/we-are-still-very-much-alive/ 
+Distro      | Latest release | version
+------------|----------------|---------
+Lunar Linux | 2014-10-11     | 1.7.0   http://www.lunar-linux.org/2017/10/18/we-are-still-very-much-alive/
 
 
 2015
 ====
 
-Distro			Latest release	version
-=======================================
-Finnix          2015-06-03      111 https://blog.finnix.org/2017/04/18/the-future-of-finnix/
-Asianux         2015-07-24      7 Lotus
-Android-IA		2015-10-02		5.1.1
-Poliarch        2015-10-26      15.10
+Distro      | Latest release | version
+------------|----------------|--------
+Finnix      | 2015-06-03     | 111 https://blog.finnix.org/2017/04/18/the-future-of-finnix/
+Asianux     | 2015-07-24     | 7 Lotus
+Android-IA  | 2015-10-02     | 5.1.1
+Poliarch    | 2015-10-26     | 15.10
 
 2016
 ====
 
-Distro			Latest release	version
-======================================
-Simplicity      2016-07-31      16.07
-Viperr          2016-08-15      0.9 (Fedora 24)
-Sonar           2016-11-02      17.01-alpha
+Distro      | Latest release | version
+------------|----------------|--------
+Simplicity  | 2016-07-31     | 16.07
+Viperr      | 2016-08-15     | 0.9 (Fedora 24)
+Sonar       | 2016-11-02     | 17.01-alpha
 
 
 
