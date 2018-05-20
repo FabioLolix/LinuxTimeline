@@ -15,13 +15,7 @@ distro as per the guidelines.
 
 Distro          Latest release  version
 =======================================
-Parsidora       2014-07-15      20
-Deli(cate)      2014-07-16      alpha 5
-XBMCbuntu       2014-08-07      13.0
-Deft            2014-08-10
-Lunar Linux     2014-10-11
-Greenie         2014-11-23
-Zevenos         2014-12-31
+Lunar Linux     2014-10-11      1.7.0   http://www.lunar-linux.org/2017/10/18/we-are-still-very-much-alive/ 
 
 
 2015
@@ -29,13 +23,6 @@ Zevenos         2014-12-31
 
 Distro			Latest release	version
 =======================================
-Symphony OS		2015-02-01		15.0
-Bridge          2015-02-15
-IPCop           2015-02-23      2.1.9
-eZeY            2015-04-05
-Hanthana        2015-04-16      21
-Crungbang++     2015-04-28      1.0
-Rocks           2015-05-11      6.2
 Finnix          2015-06-03      111 https://blog.finnix.org/2017/04/18/the-future-of-finnix/
 Asianux         2015-07-24      7 Lotus
 Android-IA		2015-10-02		5.1.1
@@ -46,16 +33,21 @@ Poliarch        2015-10-26      15.10
 
 Distro			Latest release	version
 ======================================
+Simplicity      2016-07-31      16.07
 Viperr          2016-08-15      0.9 (Fedora 24)
+Sonar           2016-11-02      17.01-alpha
 
 
 
 ## TODO
 
+
+### To add
+
 DietPi  (waiting reply)
 http://dietpi.com/
 
-Liri OS  (waiting reply) [alpha]
+Liri OS  (Arch) [alpha] (contacted 2x, waiting reply)
 https://github.com/lirios
 
 Fatdog 64
@@ -64,7 +56,7 @@ https://distrowatch.com/fatdog
 Subgraph OS
 https://distrowatch.com/subgraph
 
-Bitkey (debian)
+Bitkey (debian) (contacted 2x, waiting reply)
 https://distrowatch.com/bitkey
 
 Pearl Linux
@@ -87,6 +79,28 @@ https://distrowatch.com/kodachi
 
 Feren OS
 https://distrowatch.com/ferenos
+
+xBian (Debian) (contacted 2x, waiting reply)
+
+BlissOS (Android) (contacted 2x, waiting reply)
+
+Talking Arch (Arch) (contacted 2x their mailserver don't work)
+
+Arch Anywhere/Anarchy Linux (Arch) (contacted)
+
+
+### To remove
+
+Sonar GNU/Linux - website gone, when has stopped precisely?
+
+Simplicity Linux - website gone, when has stopped precisely?
+
+
+### More information needed
+
+0Linux - when has stopped precisely?
+
+Bridge - when has stopped precisely?
 
 
 ## Distribution list
