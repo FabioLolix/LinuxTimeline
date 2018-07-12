@@ -2,8 +2,27 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 Next (TBD)
-* Added: Raspbmc/OSMC
+* Added: Raspbmc/OSMC, OmniROM
+* Added: Shift Linux (discontinued) (thanks to jristz)
+* Added: ArchMerge/ArcoLinux, POP_OS!, Bluestar Linux
+* Added: SwagArch GNU/Linux, Snakeoil OS
+* Added: Hyperbola (thanks to André Silva)
+* Added: Ubuntu Touch (thanks to Michael McMahon)
+* Added: CopperheadOS (thanks to Michael McMahon)
+* Added: Arch Linux 32 (thanks to kRkk)
+* Discontinued: Vyatta, Korora, Hawaii OS, Parsidora
+* Discontinued: DeLi(cate), XBMCbuntu, ZevenOS
+* Discontinued: Symphony OS, Bridge, IPCop, eZeY
+* Discontinued: Hanthana
+* Blacklisted: Mandragora
+* Merged: Lede Project into OpenWRT
+* Renamed: Android Wear to Wear OS
+* Renamed: AV to AV Linux
 * Fixed: start & end date for Knopperdisk
+* Fixed: start date for Void (thanks to Aleppi)
+* Fixed: link for Sage Live (thanks to sergds)
+* Fixed: link for AV Linux
+* Fixed: normalized data (thanks to schcriher)
 
 17.10 (2017-10-29)
 * Added: GuixSD, LineageOS, SteamOS, ToriOS, OSGeo-Live
