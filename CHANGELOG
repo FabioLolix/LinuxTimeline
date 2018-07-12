@@ -10,6 +10,7 @@ Next (TBD)
 * Added: Ubuntu Touch (thanks to Michael McMahon)
 * Added: CopperheadOS (thanks to Michael McMahon)
 * Added: Arch Linux 32 (thanks to kRkk)
+* Added: Artix (thanks to PaoJiao, xnano200, konimex)
 * Discontinued: Vyatta, Korora, Hawaii OS, Parsidora
 * Discontinued: DeLi(cate), XBMCbuntu, ZevenOS
 * Discontinued: Symphony OS, Bridge, IPCop, eZeY
@@ -23,6 +24,7 @@ Next (TBD)
 * Fixed: link for Sage Live (thanks to sergds)
 * Fixed: link for AV Linux
 * Fixed: normalized data (thanks to schcriher)
+* Fixed: markdown in DISTRIBUTIONS.md (thanks to kRkk)
 
 17.10 (2017-10-29)
 * Added: GuixSD, LineageOS, SteamOS, ToriOS, OSGeo-Live
