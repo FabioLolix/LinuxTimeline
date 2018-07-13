@@ -129,7 +129,64 @@ Arch Anywhere/Anarchy Linux (Arch) (contacted)
 
 | **Other discontinued distributions** | |
 |-|-|
-| BioKnoppix   | [ArchiveOS](https://archiveos.org/bioknoppix/) [Distrowatch](https://distrowatch.com/table.php?distribution=bioknoppix) |
+| Accelerated KNOPPIX | [ArchiveOS](https://archiveos.org/accelerated-knoppix/) |
+| Achoo! | [ArchiveOS](https://archiveos.org/achoo/) |
+| Adamantix | [Distrowatch](https://distrowatch.com/adamantix) |
+| ADIOS Linux Boot CD | [Distrowatch](https://distrowatch.com/adios) |
+| AdminsParadise | [ArchiveOS](https://archiveos.org/adminsparadise/) |
+| Aleader | [Distrowatch](https://distrowatch.com/aleader) |
+| Alinex | [ArchiveOS](https://archiveos.org/alinex/) [Distrowatch](https://distrowatch.com/alinex) |
+| aLinux | [ArchiveOS](https://archiveos.org/alinux/) [Distrowatch](https://distrowatch.com/alinux) |
+| AliXe | [ArchiveOS](https://archiveos.org/alixe/) [Distrowatch](https://distrowatch.com/alixe) |
+| alphaOS | [ArchiveOS](https://archiveos.org/alphaos/) |
+| Amarok Live | [Distrowatch](https://distrowatch.com/amaroklive) |
+| AMA Desktop | [ArchiveOS](https://archiveos.org/ama-desktop/) |
+| AmigoLinux | [ArchiveOS](https://archiveos.org/amigolinux/) |
+| Ankur Bangla | [ArchiveOS](https://archiveos.org/ankur/) [Distrowatch](https://distrowatch.com/ankur) |
+| ANTEMIUM Linux | [ArchiveOS](https://archiveos.org/antemium/)  [Distrowatch](https://distrowatch.com/antemium) |
+| Antomic GNU/Linux | [Distrowatch](https://distrowatch.com/antomic) |
+| Anubis-Linux | [ArchiveOS](https://archiveos.org/anubis/) |
+| Arabbix | [ArchiveOS](https://archiveos.org/arabbix/) [Distrowatch](https://distrowatch.com/arabbix) |
+| Ares Desktop | [Distrowatch](https://distrowatch.com/ares) |
+| ArcheOS | [ArchiveOS](https://archiveos.org/archeos/) |
+| Arudius | [ArchiveOS](https://archiveos.org/arudius/) [Distrowatch](https://distrowatch.com/arudius) |
+| Athene Operating System | [Distrowatch](https://distrowatch.com/athene) |
+| AtlasX | [ArchiveOS](https://archiveos.org/atlasx/) |
+| Atomix | [Distrowatch](https://distrowatch.com/atomix) |
+| Augustux | [Distrowatch](https://distrowatch.com/augustux) |
+| Baltix | [ArchiveOS](https://archiveos.org/baltix/) |
+| BasicLinux | [ArchiveOS](https://archiveos.org/basic/) |
+| BeakOS | [Distrowatch](https://distrowatch.com/beakos) |
+| BearOps Desktop Linux OS | [Distrowatch](https://distrowatch.com/bearops) |
+| BeatrIX Linux | [ArchiveOS](https://archiveos.org/beatrix/) [Distrowatch](https://distrowatch.com/beatrix) |
+| Bee Linux | [Distrowatch](https://distrowatch.com/bee) |
+| BEERnix | [Distrowatch](https://distrowatch.com/beernix) |
+| Beini | [ArchiveOS](https://archiveos.org/beini/) |
+| Bella OS | [ArchiveOS](https://archiveos.org/bellaos/) [Distrowatch](https://distrowatch.com/bella) |
+| BHLD | [ArchiveOS](https://archiveos.org/bhld/) |
+| Biadix | [Distrowatch](https://distrowatch.com/biadix) |
+| Big Linux | [ArchiveOS](https://archiveos.org/big/) |
+| BinToo GNU/Linux | [Distrowatch](https://distrowatch.com/bintoo) |
+| BioBrew Linux Distribution | [Distrowatch](https://distrowatch.com/biobrew) |
+| BioKnoppix | [ArchiveOS](https://archiveos.org/bioknoppix/) [Distrowatch](https://distrowatch.com/table.php?distribution=bioknoppix) |
+| BlackBuntu | [ArchiveOS](https://archiveos.org/blackbuntu/) |
+| BlackRoute | [ArchiveOS](https://archiveos.org/blackroute/) |
+| Blin Linux | [Distrowatch](https://distrowatch.com/blin) |
+| B-linux | [ArchiveOS](https://archiveos.org/blinux/) |
+| Blue Linux | [Distrowatch](https://distrowatch.com/blue) |
+| BlueEyedOS | [ArchiveOS](https://archiveos.org/blueeyedos/) |
+| Bonzai Linux | [ArchiveOS](https://archiveos.org/bonzai/) [Distrowatch](https://distrowatch.com/bonzai) |
+| Boot-Repair-Disk | [ArchiveOS](https://archiveos.org/boot-repair-disk/) |
+| Boten GNU/Linux | [Distrowatch](https://distrowatch.com/boten) |
+| BRLix | [Distrowatch](https://distrowatch.com/brlix) |
+| BrlSpeak | [ArchiveOS](https://archiveos.org/brlspeak/) [Distrowatch](https://distrowatch.com/brlspeak) |
+| Bubuntu | [ArchiveOS](https://archiveos.org/bubuntu/) |
+| Buffalo Linux | [Distrowatch](https://distrowatch.com/buffalo) |
+| Build Your Own (BYO) Linux | [Distrowatch](https://distrowatch.com/byo) |
+| BugnuX | [ArchiveOS](https://archiveos.org/bugnux/) |
+| Bugtraq | [ArchiveOS](https://archiveos.org/bugtraq/) |
+| ByzantineOS | [ArchiveOS](https://archiveos.org/byzantineos/) [Distrowatch](https://distrowatch.com/byzantineos) |
+| Byzantium | [ArchiveOS](https://archiveos.org/byzantium/) |
 
 
 | **Projects which are not a Linux distribution** |  |
