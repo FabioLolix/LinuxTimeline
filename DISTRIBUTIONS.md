@@ -33,72 +33,58 @@ distro as per the guidelines.
 
 | Distro      | Latest release | version         |                      |
 | ------------|----------------|-----------------|----------------------|
-| Simplicity  | 2016-07-31     | 16.07           |                      |
+| Simplicity  | 2016-07-31     | 16.07           | discontinued         |
 | Viperr      | 2016-08-15     | 0.9 (Fedora 24) | new version in works |
-| Sonar       | 2016-11-02     | 17.01-alpha     |                      |
+| Sonar       | 2016-11-02     | 17.01-alpha     | discontinued         |
 
 
 
-## TODO
+## Waiting list / Evaluation list
 
+| Beta | |
+|-|-|
+| | |
 
-### To add
+| Alpha or early stage | | |
+|-|-|-|
+| [Liri](https://liri.io/) | [development](https://github.com/lirios) | Arch |
+| [postmarketOS](https://postmarketos.org/) | [development](https://gitlab.com/postmarketOS) | Alpine |
 
-DietPi  (waiting reply)
-http://dietpi.com/
+[Bitkey](https://distrowatch.com/bitkey)
 
-Liri OS  (Arch) [alpha] (contacted 2x, waiting reply)
-https://github.com/lirios
+[DietPi](http://dietpi.com/)
 
-Fatdog 64
-https://distrowatch.com/fatdog
+[Fatdog 64](https://distrowatch.com/fatdog)
 
-Subgraph OS
-https://distrowatch.com/subgraph
+[Subgraph OS](https://distrowatch.com/subgraph)
 
-Bitkey (debian) (contacted 2x, waiting reply)
-https://distrowatch.com/bitkey
+[Pearl Linux](https://distrowatch.com/pearl)
 
-Pearl Linux
-https://distrowatch.com/pearl
+[DRBL](https://distrowatch.com/drbl)
 
-DRBL
-https://distrowatch.com/drbl
+[Uruk](https://distrowatch.com/uruk)
 
-Uruk
-https://distrowatch.com/uruk
+[FreePBX](https://distrowatch.com/freepbx)
 
+[Linux Kodachi](https://distrowatch.com/kodachi)
 
-FreePBX (Centos)
-https://distrowatch.com/freepbx
+[Feren OS](https://distrowatch.com/ferenos)
 
-Linux Kodachi
-https://distrowatch.com/kodachi
-
-Feren OS
-https://distrowatch.com/ferenos
+BlissOS (Android)
 
 xBian (Debian) (contacted 2x, waiting reply)
-
-BlissOS (Android) (contacted 2x, waiting reply)
 
 Talking Arch (Arch) (contacted 2x their mailserver don't work)
 
 Arch Anywhere/Anarchy Linux (Arch) (contacted)
 
 
-### To remove
-
-Sonar GNU/Linux - website gone, when has stopped precisely?
-
-Simplicity Linux - website gone, when has stopped precisely?
-
-
-### More information needed
-
-0Linux - when has stopped precisely?
-
-Bridge - when has stopped precisely?
+| **More information needed** | |
+|-----------------------------|-|
+| 0Linux | when has stopped precisely? |
+| Bridge | when has stopped precisely? |
+| Sonar GNU/Linux | when has stopped precisely? |
+| Simplicity | when has stopped precisely? |
 
 
 ## Distribution list
@@ -141,7 +127,7 @@ Bridge - when has stopped precisely?
 ### Other discontinued distributions
 
 
-| Discontinued | 
+| **Discontinued** | |
 | -------------|-|
 | BioKnoppix   | [ArchiveOS](https://archiveos.org/bioknoppix/) [Distrowatch](https://distrowatch.com/table.php?distribution=bioknoppix) |
 
