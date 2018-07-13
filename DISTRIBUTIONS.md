@@ -80,7 +80,7 @@ Arch Anywhere/Anarchy Linux (Arch) (contacted)
 
 
 | **More information needed** | |
-|-----------------------------|-|
+|-|-|
 | 0Linux | when has stopped precisely? |
 | Bridge | when has stopped precisely? |
 | Sonar GNU/Linux | when has stopped precisely? |
@@ -122,25 +122,21 @@ Arch Anywhere/Anarchy Linux (Arch) (contacted)
 | [IRC](http://webchat.freenode.net/?channels=bbqlinux) | |
 
 
-### Other embedded distributions
+| **Other embedded distributions** | |
+|-|-|
+| | | 
 
-### Other discontinued distributions
 
-
-| **Discontinued** | |
-| -------------|-|
+| **Other discontinued distributions** | |
+|-|-|
 | BioKnoppix   | [ArchiveOS](https://archiveos.org/bioknoppix/) [Distrowatch](https://distrowatch.com/table.php?distribution=bioknoppix) |
 
-### Not Linux distributions
 
+| **Projects which are not a Linux distribution** |  |
+|-|-|
+| [OpenEmbedded](http://www.openembedded.org/) | Software framework for creating embedded Linux distributions |
+| [Yocto Project](https://www.yoctoproject.org/) | Complete embedded Linux development environment |
 
-[OpenEmbedded](http://www.openembedded.org/)
-
-* Software framework to create embedded Linux distributions
-
-[Yocto Project](https://www.yoctoproject.org/)
-
-* Complete embedded Linux development environment
 
 ### Related resources
 
@@ -153,3 +149,5 @@ http://lwn.net/Distributions/
 http://www.ibiblio.org/pub/linux/distributions/
 
 http://www.linuxlinks.com/Distributions/
+
+https://github.com/FabioLolix/Lolix-lists/blob/master/RaspberryPi_OS.md
