@@ -22,6 +22,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Merged: Lede Project into OpenWRT
 * Renamed: Android Wear to Wear OS
 * Renamed: AV to AV Linux
+* Renamed: ASP to ASPLinux
 * Fixed: start & end date for Knopperdisk
 * Fixed: start date for Void (thanks to Aleppi)
 * Fixed: link for Sage Live (thanks to sergds)
