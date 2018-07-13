@@ -13,29 +13,29 @@ distro as per the guidelines.
 2014
 ====
 
-Distro      | Latest release | version |
-------------|----------------|---------|---------------------------------------------------------------------|
-Lunar Linux | 2014-10-11     | 1.7.0   | http://www.lunar-linux.org/2017/10/18/we-are-still-very-much-alive/ |
+| Distro      | Latest release | version |                                                                     |
+| ------------|----------------|---------|---------------------------------------------------------------------|
+| Lunar Linux | 2014-10-11     | 1.7.0   | http://www.lunar-linux.org/2017/10/18/we-are-still-very-much-alive/ |
 
 
 2015
 ====
 
-Distro      | Latest release | version |
-------------|----------------|---------|----------------------------------------------------------|
-Finnix      | 2015-06-03     | 111     | https://blog.finnix.org/2017/04/18/the-future-of-finnix/ |
-Asianux     | 2015-07-24     | 7 Lotus |
-Android-IA  | 2015-10-02     | 5.1.1   |
-Poliarch    | 2015-10-26     | 15.10   |
+| Distro      | Latest release | version |                                                          |
+| ------------|----------------|---------|----------------------------------------------------------|
+| Finnix      | 2015-06-03     | 111     | https://blog.finnix.org/2017/04/18/the-future-of-finnix/ |
+| Asianux     | 2015-07-24     | 7 Lotus |                                                          |
+| Android-IA  | 2015-10-02     | 5.1.1   |                                                          |
+| Poliarch    | 2015-10-26     | 15.10   |                                                          |
 
 2016
 ====
 
-Distro      | Latest release | version         |
-------------|----------------|-----------------|----------------------|
-Simplicity  | 2016-07-31     | 16.07           |                      |
-Viperr      | 2016-08-15     | 0.9 (Fedora 24) | new version in works |
-Sonar       | 2016-11-02     | 17.01-alpha     |
+| Distro      | Latest release | version         |                      |
+| ------------|----------------|-----------------|----------------------|
+| Simplicity  | 2016-07-31     | 16.07           |                      |
+| Viperr      | 2016-08-15     | 0.9 (Fedora 24) | new version in works |
+| Sonar       | 2016-11-02     | 17.01-alpha     |                      |
 
 
 
@@ -128,7 +128,7 @@ Bridge - when has stopped precisely?
 | Init               | Systemd                             |
 | Country            | Germany                             |
 | Language           | English                             |
-| Links | [Sourceforge](https://sourceforge.net/projects/bbqlinux/) |
+| Links | [Homepage](http://bbqlinux.org/) [Sourceforge](https://sourceforge.net/projects/bbqlinux/) |
 | [Download](https://sourceforge.net/projects/bbqlinux/files) |
 | [Development](https://github.com/bbqlinux) | |
 | [Support](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS) | |
@@ -136,66 +136,34 @@ Bridge - when has stopped precisely?
 | [IRC](http://webchat.freenode.net/?channels=bbqlinux) | |
 
 
-## Note
+### Other embedded distributions
 
-Korora
-> Splitted Gentoo-based Kororaa and Fedora-based Kororaa (later Korora)
-Fedora-based Kororaa wrongly names Korora from start since double names with connectors don't render properly
-Kororaa has been discontinued with statement for more then 3 years
-Original line below: "N","Kororaa","#706f7f","Enoch","2005.12.12",,,"http://en.wikipedia.org/wiki/Kororaa","Korora","2013.5.2","http://kororaproject.org/",,,,,,
-More info: http://en.wikipedia.org/wiki/Kororaa
-
-***
-
-Kaos
-
-> KaOS is an indipendent OS which use pacman software management from Arch Linux
-
-***
-
-The OpenEmbedded-Core Project
-
-> OE-Core for short, resulted from the merge of the Yocto Project with OpenEmbedded
+### Other discontinued distributions
 
 
-OpenEmbedded
-http://www.openembedded.org/
-Is a software framework to create embedded Linux distributions
+| Discontinued | 
+| -------------|-|
+| BioKnoppix   | [ArchiveOS](https://archiveos.org/bioknoppix/) [Distrowatch](https://distrowatch.com/table.php?distribution=bioknoppix) |
+
+### Not Linux distributions
 
 
-Yocto Project
-https://www.yoctoproject.org/
-It's a complete embedded Linux development environment
+[OpenEmbedded](http://www.openembedded.org/)
 
+* Software framework to create embedded Linux distributions
 
-Ångström
-http://wp.angstrom-distribution.org/
-Angstrom is using OpenEmbedded as buildsystem and heavily uses its layer features.
-Yocto Poject Partecipant and Compatible
+[Yocto Project](https://www.yoctoproject.org/)
 
+* Complete embedded Linux development environment
 
-Some Yocto/OpenEmbedded-Core projects:
+### Related resources
 
-Poky
-Poky is a 'reference system' of the Yocto Project
+https://distrowatch.com/
 
-KaeilOS
-http://www.kaeilos.com/
+https://archiveos.org/linux/
 
-resinOS
-https://resin.io/
+http://lwn.net/Distributions/
 
-AsteroidOS
-https://asteroidos.org/
+http://www.ibiblio.org/pub/linux/distributions/
 
-OpenMoko
-
-SlugOS
-
-
-https://en.wikipedia.org/wiki/OpenEmbedded
-https://en.wikipedia.org/wiki/Yocto_Project
-https://en.wikipedia.org/wiki/%C3%85ngstr%C3%B6m_distribution
-https://layers.openembedded.org/layerindex/branch/master/layers/
-git clone git://git.openembedded.org/openembedded
-https://github.com/resin-os/meta-resin
+http://www.linuxlinks.com/Distributions/
