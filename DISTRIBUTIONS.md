@@ -215,6 +215,7 @@ distro as per the guidelines.
 | Core GNU/Linux | [Distrowatch](https://distrowatch.com/core) |
 | CPUBuilders Linux | [Distrowatch](https://distrowatch.com/cpubuilders) |
 | Cyborg Hawk | [ArchiveOS](https://archiveos.org/cyborg-hawk/) |
+| Keysoft | [Distrowatch](https://distrowatch.com/keysoft) |
 
 
 | **Projects which are not a Linux distribution** |  |
