@@ -187,6 +187,25 @@ Arch Anywhere/Anarchy Linux (Arch) (contacted)
 | Bugtraq | [ArchiveOS](https://archiveos.org/bugtraq/) |
 | ByzantineOS | [ArchiveOS](https://archiveos.org/byzantineos/) [Distrowatch](https://distrowatch.com/byzantineos) |
 | Byzantium | [ArchiveOS](https://archiveos.org/byzantium/) |
+| CAELinux | [ArchiveOS](https://archiveos.org/cae/) |
+| Caos Linux | [Distrowatch](https://distrowatch.com/caos) |
+| Càtix | [ArchiveOS](https://archiveos.org/catix/) [Distrowatch](https://distrowatch.com/catix) |
+| Catux-USB | [ArchiveOS](https://archiveos.org/catux-usb/) |
+| CCux Linux | [Distrowatch](https://distrowatch.com/ccux) |
+| CDlinux | [ArchiveOS](https://archiveos.org/cdlinux/) [Distrowatch](https://distrowatch.com/cdlinux) |
+| CensorNet | [Distrowatch](https://distrowatch.com/censornet) |
+| ChemPup | [ArchiveOS](https://archiveos.org/chempup/) |
+| Chinese 2000 Linux | [Distrowatch](https://distrowatch.com/chinese2000) |
+| Chinese Linux Extension | [Distrowatch](https://distrowatch.com/cle) |
+| Clusterix | [ArchiveOS](https://archiveos.org/clusterix/) [Distrowatch](https://distrowatch.com/clusterix) |
+| clusterKNOPPIX | [ArchiveOS](https://archiveos.org/clusterknoppix/) [Distrowatch](https://distrowatch.com/clusterknoppix) |
+| Cobind Desktop | [Distrowatch](https://distrowatch.com/cobind) |
+| College Linux | [Distrowatch](https://distrowatch.com/college) |
+| Condorux | [Distrowatch](https://distrowatch.com/condorux) |
+| Cool Linux CD | [ArchiveOS](https://archiveos.org/cool/) [Distrowatch](https://distrowatch.com/cool) |
+| Core GNU/Linux | [Distrowatch](https://distrowatch.com/core) |
+| CPUBuilders Linux | [Distrowatch](https://distrowatch.com/cpubuilders) |
+| Cyborg Hawk | [ArchiveOS](https://archiveos.org/cyborg-hawk/) |
 
 
 | **Projects which are not a Linux distribution** |  |
