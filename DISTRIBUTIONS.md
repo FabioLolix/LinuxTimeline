@@ -47,7 +47,7 @@ distro as per the guidelines.
 ====
 
 | Distro | Latest release | version |  |
-|-|
+|-|-|-|-|
 | MorpheusArchLinux | 2.0 | 2017-10-23 |  |
 |  |  |  |  |
 
@@ -56,20 +56,20 @@ distro as per the guidelines.
 
 | Pending new release or more info | |
 |-|-|
-| [Bitkey](https://bitkey.io/) |  |
-| [Bliss OS](https://blissroms.com/) |  |
-| [DietPi](http://dietpi.com/) |  |
+| [Bitkey](https://bitkey.io/) | 
+| [Bliss OS](https://blissroms.com/) | 
+| [DietPi](http://dietpi.com/) | 
 | [cinelive](https://cinelerra-cv.org/cinelive.php) |
 | [io GNU/Linux](http://io.gnu.linux.free.fr/) |
-| [RasPlex](http://www.rasplex.com/) |  |
-| [xBian](https://xbian.org/) |  |
-|  |  |  |
+| [RasPlex](http://www.rasplex.com/) | 
+| [xBian](https://xbian.org/) | 
+|  |
 
 | Stable | |
 |-|-|
-| [Anarchy Linux](https://anarchy-linux.org/) |  |
+| [Anarchy Linux](https://anarchy-linux.org/) | Arch |
 | [Fatdog 64](https://distrowatch.com/fatdog) |  |
-| [Feren OS](https://distrowatch.com/ferenos) |  |
+| [Feren OS](https://distrowatch.com/ferenos) | Linux Mint |
 | [FreePBX](https://distrowatch.com/freepbx) |  |
 | [Linux Kodachi](https://distrowatch.com/kodachi) |  |
 | [Pearl Linux](https://distrowatch.com/pearl) |  |
