@@ -27,56 +27,65 @@ distro as per the guidelines.
 | Asianux     | 2015-07-24     | 7 Lotus |                                                          |
 | Android-IA  | 2015-10-02     | 5.1.1   |                                                          |
 | Poliarch    | 2015-10-26     | 15.10   |                                                          |
+| Nanolinux | 2015-12-26 | 1.3 |  |
+
 
 2016
 ====
 
 | Distro      | Latest release | version         |                      |
 | ------------|----------------|-----------------|----------------------|
+| ChaletOS | 2016-07-12 | 16.04.2 |  |
 | Simplicity  | 2016-07-31     | 16.07           | discontinued         |
-| Viperr      | 2016-08-15     | 0.9 (Fedora 24) | new version in works |
+| Viperr      | 2016-08-15     | 0.9 (Fedora 24) | new version in works (Viperr10 alpha1 2017-09-28) |
 | Sonar       | 2016-11-02     | 17.01-alpha     | discontinued         |
+|  |  |  |  |
 
+
+2017
+====
+
+| Distro | Latest release | version |  |
+|-|
+| MorpheusArchLinux | 2.0 | 2017-10-23 |  |
+|  |  |  |  |
 
 
 ## Waiting list / Evaluation list
 
-| Beta | |
+| Pending new release or more info | |
 |-|-|
-| | |
+| [Bitkey](https://bitkey.io/) |  |
+| [Bliss OS](https://blissroms.com/) |  |
+| [DietPi](http://dietpi.com/) |  |
+| [RasPlex](http://www.rasplex.com/) |  |
+| [xBian](https://xbian.org/) |  |
+|  |  |  |
+
+| Stable | |
+|-|-|
+| [Anarchy Linux](https://anarchy-linux.org/) |  |
+| [Fatdog 64](https://distrowatch.com/fatdog) |  |
+| [Feren OS](https://distrowatch.com/ferenos) |  |
+| [FreePBX](https://distrowatch.com/freepbx) |  |
+| [Linux Kodachi](https://distrowatch.com/kodachi) |  |
+| [Pearl Linux](https://distrowatch.com/pearl) |  |
+| [Subgraph OS](https://distrowatch.com/subgraph) |  |
+| [TalkingArch](https://talkingarch.tk/) |  |
+| [Uruk](https://distrowatch.com/uruk) |  |
+|  |  |  |
+
+| Beta | | |
+|-|-|-|
+| [Enso OS](http://www.enso-os.site/) | [development](https://github.com/nick92/Enso-OS) | Ubuntu |
+| [januslinux](https://januslinux.github.io/) | [development](https://github.com/JanusLinux/janus) | independent |
+|  |  |  |
 
 | Alpha or early stage | | |
 |-|-|-|
 | [Liri](https://liri.io/) | [development](https://github.com/lirios) | Arch |
 | [postmarketOS](https://postmarketos.org/) | [development](https://gitlab.com/postmarketOS) | Alpine |
-
-[Bitkey](https://distrowatch.com/bitkey)
-
-[DietPi](http://dietpi.com/)
-
-[Fatdog 64](https://distrowatch.com/fatdog)
-
-[Subgraph OS](https://distrowatch.com/subgraph)
-
-[Pearl Linux](https://distrowatch.com/pearl)
-
-[DRBL](https://distrowatch.com/drbl)
-
-[Uruk](https://distrowatch.com/uruk)
-
-[FreePBX](https://distrowatch.com/freepbx)
-
-[Linux Kodachi](https://distrowatch.com/kodachi)
-
-[Feren OS](https://distrowatch.com/ferenos)
-
-BlissOS (Android)
-
-xBian (Debian) (contacted 2x, waiting reply)
-
-Talking Arch (Arch) (contacted 2x their mailserver don't work)
-
-Arch Anywhere/Anarchy Linux (Arch) (contacted)
+|  |  |  |
 
 
 | **More information needed** | |
