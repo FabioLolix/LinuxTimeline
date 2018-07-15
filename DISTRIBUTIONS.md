@@ -36,6 +36,7 @@ distro as per the guidelines.
 | Distro      | Latest release | version         |                      |
 | ------------|----------------|-----------------|----------------------|
 | ChaletOS | 2016-07-12 | 16.04.2 |  |
+| Point Linux | 2016-06-21 | 3.2 agni |  |
 | Simplicity  | 2016-07-31     | 16.07           | discontinued         |
 | Viperr      | 2016-08-15     | 0.9 (Fedora 24) | new version in works (Viperr10 alpha1 2017-09-28) |
 | Sonar       | 2016-11-02     | 17.01-alpha     | discontinued         |
@@ -58,6 +59,8 @@ distro as per the guidelines.
 | [Bitkey](https://bitkey.io/) |  |
 | [Bliss OS](https://blissroms.com/) |  |
 | [DietPi](http://dietpi.com/) |  |
+| [cinelive](https://cinelerra-cv.org/cinelive.php) |
+| [io GNU/Linux](http://io.gnu.linux.free.fr/) |
 | [RasPlex](http://www.rasplex.com/) |  |
 | [xBian](https://xbian.org/) |  |
 |  |  |  |
@@ -83,6 +86,7 @@ distro as per the guidelines.
 
 | Alpha or early stage | | |
 |-|-|-|
+| [Archphile](http://archphile.org/) | [development](https://github.com/archphile) | Arch Linux ARM |
 | [Liri](https://liri.io/) | [development](https://github.com/lirios) | Arch |
 | [postmarketOS](https://postmarketos.org/) | [development](https://gitlab.com/postmarketOS) | Alpine |
 |  |  |  |
@@ -131,9 +135,10 @@ distro as per the guidelines.
 | [IRC](http://webchat.freenode.net/?channels=bbqlinux) | |
 
 
-| **Other embedded distributions** | |
-|-|-|
-| | | 
+| **Other embedded distributions** |
+|-|
+| [Plex Media Player for Embedded Plattform](https://www.plex.tv/media-server-downloads/#plex-app) |
+| [Roon OS/ROCK](https://kb.roonlabs.com/Roon_Optimized_Core_Kit) |
 
 
 | **Other discontinued distributions** | |
