@@ -86,9 +86,12 @@ distro as per the guidelines.
 
 | Alpha or early stage | | |
 |-|-|-|
-| [Archphile](http://archphile.org/) | [development](https://github.com/archphile) | Arch Linux ARM |
+| [Adélie Linux](http://adelielinux.org/) | [development](https://code.foxkit.us/groups/adelie) |  |
+| [Crankshaft](http://getcrankshaft.com/) | [development](https://github.com/opencardev) | (embedded) |
+| [Archphile](http://archphile.org/) | [development](https://github.com/archphile) | Arch Linux ARM (embedded) |
 | [Liri](https://liri.io/) | [development](https://github.com/lirios) | Arch |
-| [postmarketOS](https://postmarketos.org/) | [development](https://gitlab.com/postmarketOS) | Alpine |
+| [Maemo Leste](https://maemo-leste.github.io/) | [development](https://github.com/maemo-leste) | (embedded) |
+| [postmarketOS](https://postmarketos.org/) | [development](https://gitlab.com/postmarketOS) | Alpine (embedded) |
 |  |  |  |
 
 
@@ -137,6 +140,7 @@ distro as per the guidelines.
 
 | **Other embedded distributions** |
 |-|
+| [emteria.OS](https://emteria.com/) |
 | [Plex Media Player for Embedded Plattform](https://www.plex.tv/media-server-downloads/#plex-app) |
 | [Roon OS/ROCK](https://kb.roonlabs.com/Roon_Optimized_Core_Kit) |
 
@@ -225,8 +229,12 @@ distro as per the guidelines.
 
 | **Projects which are not a Linux distribution** |  |
 |-|-|
+| [Barebox](https://www.barebox.org/) | Bootloader designed for embedded systems. It runs on a variety of architectures including x86, ARM, MIPS, PowerPC and others |
 | [OpenEmbedded](http://www.openembedded.org/) | Software framework for creating embedded Linux distributions |
+| [PTXdist](https://www.ptxdist.org/) | Build system for firmware images, the collection of recipes is based on GNU Make and Bash |
+| [rauc](https://www.rauc.io/) | Lightweight update client that runs on your embedded Linux  |
 | [Yocto Project](https://www.yoctoproject.org/) | Complete embedded Linux development environment |
+|  |  |
 
 
 ### Related resources
