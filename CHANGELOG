@@ -28,6 +28,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Fixed: start date for Void (thanks to Aleppi)
 * Fixed: link for Sage Live (thanks to sergds)
 * Fixed: link for AV Linux
+* Fixed: connector for ASPLinux (thanks to jorgenatz)
 * Fixed: ChaletOS to Xubuntu-based distribution
 * Fixed: normalized data (thanks to schcriher)
 * Fixed: markdown in DISTRIBUTIONS.md (thanks to kRkk)
