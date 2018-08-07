@@ -54,7 +54,6 @@ distro as per the guidelines.
 
 | Distro      | Latest release | version |                                                          |
 | ------------|----------------|---------|----------------------------------------------------------|
-| Finnix      | 2015-06-03     | 111     | https://blog.finnix.org/2017/04/18/the-future-of-finnix/ |
 | Asianux     | 2015-07-24     | 7 Lotus (RHEL 7) |                                                          |
 | Android-IA  | 2015-10-02     | 5.1.1   |                                                          |
 | Poliarch    | 2015-10-26     | 15.10   |                                                          |
@@ -154,7 +153,6 @@ distro as per the guidelines.
 > First release was on 4 Nov 2012 with number 2012.11.04
 > Latest release is 2017.11.11
 
-
 | BBQLinux | 2018.05.20 |
 |--------------------|--|
 | Based on           | Arch Linux                          |
@@ -173,6 +171,12 @@ distro as per the guidelines.
 | [Support](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS) | |
 | [Forum](http://bbs.bbqlinux.org/) | |
 | [IRC](http://webchat.freenode.net/?channels=bbqlinux) | |
+
+
+#### Finnix
+
+> Discontinued [Distrowatch](https://distrowatch.com/table.php?distribution=finnix) [Wikipedia](https://en.wikipedia.org/wiki/Finnix)
+> https://blog.finnix.org/2017/04/18/the-future-of-finnix/
 
 
 | **Other embedded distributions** |
