@@ -55,7 +55,7 @@ distro as per the guidelines.
 | Distro      | Latest release | version |                                                          |
 | ------------|----------------|---------|----------------------------------------------------------|
 | Finnix      | 2015-06-03     | 111     | https://blog.finnix.org/2017/04/18/the-future-of-finnix/ |
-| Asianux     | 2015-07-24     | 7 Lotus |                                                          |
+| Asianux     | 2015-07-24     | 7 Lotus (RHEL 7) |                                                          |
 | Android-IA  | 2015-10-02     | 5.1.1   |                                                          |
 | Poliarch    | 2015-10-26     | 15.10   |                                                          |
 | Nanolinux | 2015-12-26 | 1.3 |  |
@@ -90,7 +90,7 @@ distro as per the guidelines.
 | [DietPi](http://dietpi.com/) |
 | [cinelive](https://cinelerra-cv.org/cinelive.php) |
 | [io GNU/Linux](http://io.gnu.linux.free.fr/) |
-| [RasPlex](http://www.rasplex.com/) |
+| [RasPlex/OpenPHT-Embedded](http://www.rasplex.com/) |
 | [xBian](https://xbian.org/) |
 |  |
 
@@ -115,14 +115,22 @@ distro as per the guidelines.
 
 | Alpha or early stage | | |
 |-|-|-|
-| [Adélie Linux](http://adelielinux.org/) | [development](https://code.foxkit.us/groups/adelie) |  |
-| [Crankshaft](http://getcrankshaft.com/) | [development](https://github.com/opencardev) | (embedded) |
+| [Adélie Linux](http://adelielinux.org/) | [development](https://code.foxkit.us/groups/adelie) | vaguely related to Alpine Linux, use APK package manager |
 | [Archphile](http://archphile.org/) | [development](https://github.com/archphile) | Arch Linux ARM (embedded) |
+| [Crankshaft](http://getcrankshaft.com/) | [development](https://github.com/opencardev) | Raspbian? (embedded) |
 | [Liri](https://liri.io/) | [development](https://github.com/lirios) | Arch |
-| [Maemo Leste](https://maemo-leste.github.io/) | [development](https://github.com/maemo-leste) | (embedded) |
+| [Maemo Leste](https://maemo-leste.github.io/) | [development](https://github.com/maemo-leste) | Devuan (embedded) |
 | [postmarketOS](https://postmarketos.org/) | [development](https://gitlab.com/postmarketOS) | Alpine (embedded) |
 |  |  |  |
 
+| Evaluation list | | |
+|-|-|-|
+| [batocera.linux](https://batocera-linux.xorhub.com/) |  |  |
+| [Flatcar Linux](https://www.flatcar-linux.org/) |  |  |
+| [Recalbox](https://www.recalbox.com/) |  |  |
+| [RetroPie](https://retropie.org.uk/) |  |  |
+| [RetrOrangePi](http://www.retrorangepi.org/) |  |  |
+|  |  |  |
 
 | **More information needed** | |
 |-|-|
@@ -147,7 +155,7 @@ distro as per the guidelines.
 > Latest release is 2017.11.11
 
 
-| BBQLinux | 2017.11.11 |
+| BBQLinux | 2018.05.20 |
 |--------------------|--|
 | Based on           | Arch Linux                          |
 | Architecture       | x86_64                              |
@@ -253,7 +261,11 @@ distro as per the guidelines.
 | Core GNU/Linux | [Distrowatch](https://distrowatch.com/core) |
 | CPUBuilders Linux | [Distrowatch](https://distrowatch.com/cpubuilders) |
 | Cyborg Hawk | [ArchiveOS](https://archiveos.org/cyborg-hawk/) |
+| [Jaguar Audio RTOS](https://sourceforge.net/projects/jaguaraudiodes/) |  |
 | Keysoft | [Distrowatch](https://distrowatch.com/keysoft) |
+| [Unexicon](http://www.unexicon.com/) |  |
+| [VaporOS](http://vaporos.net/) |  |
+|  |  |
 
 
 | **Projects which are not a Linux distribution** |  |
