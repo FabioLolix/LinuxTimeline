@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Builds dist files from the current working branch.
 #
 # You can specify the version as first argument:
