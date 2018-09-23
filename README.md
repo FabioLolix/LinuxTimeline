@@ -76,7 +76,8 @@ distro as per the guidelines.
 
 | Distro | Latest release | version |  |
 |-|-|-|-|
-| MorpheusArchLinux | 2.0 | 2017-10-23 |  |
+| Tanglu | 2017-06-11 | 4.0 |  |
+| MorpheusArchLinux | 2017-10-23 | 2.0 |  |
 |  |  |  |  |
 
 
@@ -116,6 +117,7 @@ distro as per the guidelines.
 |-|-|-|
 | [Adélie Linux](http://adelielinux.org/) | [development](https://code.foxkit.us/groups/adelie) | vaguely related to Alpine Linux, use APK package manager |
 | [Archphile](http://archphile.org/) | [development](https://github.com/archphile) | Arch Linux ARM (embedded) |
+| [CLIP OS](https://clip-os.org/) | [development](https://github.com/CLIPOS) | Gentoo hardened |
 | [Crankshaft](http://getcrankshaft.com/) | [development](https://github.com/opencardev) | Raspbian? (embedded) |
 | [Liri](https://liri.io/) | [development](https://github.com/lirios) | Arch |
 | [Maemo Leste](https://maemo-leste.github.io/) | [development](https://github.com/maemo-leste) | Devuan (embedded) |
@@ -125,7 +127,10 @@ distro as per the guidelines.
 | Evaluation list | | |
 |-|-|-|
 | [batocera.linux](https://batocera-linux.xorhub.com/) |  |  |
+| [/e/](https://e.foundation/mobile-phone-os/) |  |  |
 | [Flatcar Linux](https://www.flatcar-linux.org/) |  |  |
+| [Gentoo Studio](https://gentoostudio.org/) |  |  |
+| [Reborn OS](https://rebornos.wordpress.com/) |  |  |
 | [Recalbox](https://www.recalbox.com/) |  |  |
 | [RetroPie](https://retropie.org.uk/) |  |  |
 | [RetrOrangePi](http://www.retrorangepi.org/) |  |  |
@@ -137,9 +142,34 @@ distro as per the guidelines.
 | Bridge | when has stopped precisely? |
 | Sonar GNU/Linux | when has stopped precisely? |
 | Simplicity | when has stopped precisely? |
+| Tanglu | when has stopped precisely? |
 
 
 ### Distribution list
+
+#### OLinux
+
+> Independent French Linux distribution built from scratch.
+> Discontinued (website disappeared before the usual 3 after the last release)
+> [ArchiveOS](https://archiveos.org/0linux/) [Distrowatch](https://distrowatch.com/table.php?distribution=0linux) [Tuxfamily](http://0.tuxfamily.org/doku.php/start)
+
+
+#### 2XOS
+
+> Discontinued, Debian based thin client
+> [Distrowatch](https://distrowatch.com/table.php?distribution=2x)
+
+
+#### 64Studio
+
+> Discontinued, Debian based for multimedia
+> [ArchiveOS](https://archiveos.org/64studio/) [Distrowatch](https://distrowatch.com/64studio)
+
+
+#### ASPLinux
+
+> Discontinued
+> [ArchiveOS](https://archiveos.org/asplinux/) [Distrowatch](https://distrowatch.com/table.php?distribution=asp)
 
 
 #### [BBQLinux](http://bbqlinux.org/)
@@ -165,25 +195,26 @@ distro as per the guidelines.
 | Init               | Systemd                             |
 | Country            | Germany                             |
 | Language           | English                             |
-| Links | [Homepage](http://bbqlinux.org/) [Sourceforge](https://sourceforge.net/projects/bbqlinux/) |
-| [Download](https://sourceforge.net/projects/bbqlinux/files) |
-| [Development](https://github.com/bbqlinux) | |
-| [Support](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS) | |
-| [Forum](http://bbs.bbqlinux.org/) | |
-| [IRC](http://webchat.freenode.net/?channels=bbqlinux) | |
+| [Homepage](http://bbqlinux.org/) | [Sourceforge](https://sourceforge.net/projects/bbqlinux/) [Download](https://sourceforge.net/projects/bbqlinux/files) |
+| [Development](https://github.com/bbqlinux) | [Support](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS) |
+| [Forum](http://bbs.bbqlinux.org/) | [IRC](http://webchat.freenode.net/?channels=bbqlinux) |
 
 
 #### Finnix
 
-> Discontinued [Distrowatch](https://distrowatch.com/table.php?distribution=finnix) [Wikipedia](https://en.wikipedia.org/wiki/Finnix)
-> https://blog.finnix.org/2017/04/18/the-future-of-finnix/
+> Discontinued https://blog.finnix.org/2017/04/18/the-future-of-finnix/
+> [Distrowatch](https://distrowatch.com/table.php?distribution=finnix) [Wikipedia](https://en.wikipedia.org/wiki/Finnix)
 
+
+***
 
 | **Other embedded distributions** |
 |-|
-| [emteria.OS](https://emteria.com/) |
-| [Plex Media Player for Embedded Plattform](https://www.plex.tv/media-server-downloads/#plex-app) |
-| [Roon OS/ROCK](https://kb.roonlabs.com/Roon_Optimized_Core_Kit) |
+| [emteria.OS](https://emteria.com/) Commercial industrial Android, formerly know as RTAndroid |
+| [MikroTik RouterOS](https://mikrotik.com/software) RouterBOARD operative system, commercial for other platfroms |
+| [Plex Media Player for Embedded Plattform](https://www.plex.tv/media-server-downloads/#plex-app) Minimal Linux OS based on LibreELEC to provide an appliance-like Plex Media Player |
+| [Roon OS/ROCK](https://kb.roonlabs.com/Roon_Optimized_Core_Kit) Custom Linux system tailored for running Roon Server, especially for Intel NUCs |
+| [Turris OS](https://project.turris.cz/en/software) [code](https://gitlab.labs.nic.cz/turris/openwrt) Fork of OpenWrt by cz.nic used in Turris routers |
 
 
 | **Other discontinued distributions** | |
@@ -207,7 +238,7 @@ distro as per the guidelines.
 | Anubis-Linux | [ArchiveOS](https://archiveos.org/anubis/) |
 | Arabbix | [ArchiveOS](https://archiveos.org/arabbix/) [Distrowatch](https://distrowatch.com/arabbix) |
 | Ares Desktop | [Distrowatch](https://distrowatch.com/ares) |
-| ArcheOS | [ArchiveOS](https://archiveos.org/archeos/) |
+| ArcheOS | [ArchiveOS](https://archiveos.org/archeos/) [Distrowatch](https://distrowatch.com/table.php?distribution=archeos) |
 | Arudius | [ArchiveOS](https://archiveos.org/arudius/) [Distrowatch](https://distrowatch.com/arudius) |
 | Athene Operating System | [Distrowatch](https://distrowatch.com/athene) |
 | AtlasX | [ArchiveOS](https://archiveos.org/atlasx/) |
@@ -265,8 +296,20 @@ distro as per the guidelines.
 | Core GNU/Linux | [Distrowatch](https://distrowatch.com/core) |
 | CPUBuilders Linux | [Distrowatch](https://distrowatch.com/cpubuilders) |
 | Cyborg Hawk | [ArchiveOS](https://archiveos.org/cyborg-hawk/) |
+| gNOX | [ArchiveOS](https://archiveos.org/gnox/) |
 | [Jaguar Audio RTOS](https://sourceforge.net/projects/jaguaraudiodes/) |  |
 | Keysoft | [Distrowatch](https://distrowatch.com/keysoft) |
+| KibZilla | [ArchiveOS](https://archiveos.org/kibzilla/) |
+| KnoMAX | [ArchiveOS](https://archiveos.org/knomax/) |
+| knopILS | [ArchiveOS](https://archiveos.org/knopils/) |
+| Knoppel | [ArchiveOS](https://archiveos.org/knoppel/) |
+| knoppixGRASSit | [ArchiveOS](https://archiveos.org/knoppixgrassit/) |
+| KnoppiXMAME | [ArchiveOS](https://archiveos.org/knoppixmame/) |
+| Knoppix MiB | [ArchiveOS](https://archiveos.org/knoppix-mib/) |
+| Knoppix-OpenVZ | [ArchiveOS](https://archiveos.org/knoppix-openvz/) |
+| Knorpora | [ArchiveOS](https://archiveos.org/knorpora/) |
+| Sentnix | [ArchiveOS](https://archiveos.org/sentnix/) |
+| SNAPPIX | [ArchiveOS](https://archiveos.org/snappix/) |
 | [Unexicon](http://www.unexicon.com/) |  |
 | [VaporOS](http://vaporos.net/) |  |
 |  |  |
