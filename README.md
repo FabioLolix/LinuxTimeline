@@ -55,8 +55,6 @@ distro as per the guidelines.
 | Distro      | Latest release | version |                                                          |
 | ------------|----------------|---------|----------------------------------------------------------|
 | Asianux     | 2015-07-24     | 7 Lotus (RHEL 7) |                                                          |
-| Android-IA  | 2015-10-02     | 5.1.1   |                                                          |
-| Poliarch    | 2015-10-26     | 15.10   |                                                          |
 | Nanolinux | 2015-12-26 | 1.3 |  |
 
 
