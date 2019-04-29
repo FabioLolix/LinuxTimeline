@@ -116,6 +116,7 @@ distro as per the guidelines.
 |-|-|-|
 | [Enso OS](http://www.enso-os.site/) | [development](https://github.com/nick92/Enso-OS) | Ubuntu |
 | [januslinux](https://januslinux.github.io/) | [development](https://github.com/JanusLinux/janus) | independent |
+| [VeltOS](https://velt.io/) | [development](https://github.com/VeltOS) | Arch |
 |  |  |  |
 
 | Alpha or early stage | | |
@@ -132,9 +133,12 @@ distro as per the guidelines.
 | Evaluation list | | |
 |-|-|-|
 | [batocera.linux](https://batocera-linux.xorhub.com/) |  |  |
+| [CopperheadOS](https://copperhead.co/android/) | [development](https://github.com/copperheados) | Android |
 | [/e/](https://e.foundation/mobile-phone-os/) |  |  |
+| [ExTix](http://extix.se) |  |  |
 | [Flatcar Linux](https://www.flatcar-linux.org/) |  |  |
 | [Gentoo Studio](https://gentoostudio.org/) |  |  |
+| [Phoenix](http://www.phoenixos.com/) |  | Android/Android-x86 |
 | [Reborn OS](https://rebornos.wordpress.com/) |  |  |
 | [Recalbox](https://www.recalbox.com/) |  |  |
 | [RetroPie](https://retropie.org.uk/) |  |  |
