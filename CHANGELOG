@@ -29,6 +29,9 @@ Linux Distribution Timeline | CHANGELOGS
 * Renamed: Android Wear to Wear OS
 * Renamed: AV to AV Linux
 * Renamed: ASP to ASPLinux
+* Renamed: Caldera to Caldera OpenLinux
+* Renamed: SCO to SCO OpenLinux
+* Renamed: Lycoris to Lycoris Desktop/LX
 * Fixed: start & end date for Knopperdisk
 * Fixed: start date for Void (thanks to Aleppi)
 * Fixed: link for Sage Live (thanks to sergds)
