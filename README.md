@@ -49,14 +49,6 @@ distro as per the guidelines.
 | ------------|----------------|---------|---------------------------------------------------------------------|
 | Lunar Linux | 2014-10-11     | 1.7.0   | http://www.lunar-linux.org/2017/10/18/we-are-still-very-much-alive/ |
 
-
-#### 2015
-
-| Distro      | Latest release | version |                                                          |
-| ------------|----------------|---------|----------------------------------------------------------|
-| Asianux     | 2015-07-24     | 7 Lotus (RHEL 7) |                                                          |
-
-
 #### 2016
 
 | Distro      | Latest release | version         |                      |
@@ -64,7 +56,7 @@ distro as per the guidelines.
 | ChaletOS | 2016-07-12 | 16.04.2 |  |
 | Point Linux | 2016-06-21 | 3.2 agni |  |
 | Simplicity  | 2016-07-31     | 16.07           | discontinued         |
-| Viperr      | 2016-08-15     | 0.9 (Fedora 24) | new version in works (Viperr10 alpha1 2017-09-28) |
+| Viperr      | 2016-08-15     | 0.9 (Fedora 24) | Viperr10 alpha1 2017-09-28 |
 | Sonar       | 2016-11-02     | 17.01-alpha     | discontinued         |
 |  |  |  |  |
 
@@ -86,7 +78,7 @@ distro as per the guidelines.
 |  |  |  |  |
 
 
-### Waiting list / Evaluation list
+### Waiting lists
 
 | Pending new release or more info | |
 |-|-|
@@ -124,23 +116,33 @@ distro as per the guidelines.
 | [Adélie Linux](http://adelielinux.org/) | [development](https://code.foxkit.us/groups/adelie) | vaguely related to Alpine Linux, use APK package manager |
 | [Archphile](http://archphile.org/) | [development](https://github.com/archphile) | Arch Linux ARM (embedded) |
 | [CLIP OS](https://clip-os.org/) | [development](https://github.com/CLIPOS) | Gentoo hardened |
+| [CoreELEC](https://coreelec.org/) | [development](https://github.com/CoreELEC/CoreELEC) | LibreELEC |
 | [Crankshaft](http://getcrankshaft.com/) | [development](https://github.com/opencardev) | Raspbian? (embedded) |
+| [/e/](https://e.foundation/mobile-phone-os/) | [development](https://gitlab.e.foundation/e) | Android |
 | [Liri](https://liri.io/) | [development](https://github.com/lirios) | Arch |
+| [LudOS](https://ludo.libretro.com/#ludos) | [development](https://github.com/libretro/LudOS) | LibreELEC |
 | [Maemo Leste](https://maemo-leste.github.io/) | [development](https://github.com/maemo-leste) | Devuan (embedded) |
 | [postmarketOS](https://postmarketos.org/) | [development](https://gitlab.com/postmarketOS) | Alpine (embedded) |
 |  |  |  |
 
-| Evaluation list | | |
+| Waiting list | | |
 |-|-|-|
 | [batocera.linux](https://batocera-linux.xorhub.com/) |  |  |
+| [CAE Linux](https://caelinux.com/CMS3/) |  |  |
+| [Condres OS](https://condresos.codelinsoft.it/) | [development](https://github.com/specialworld83) | Arch |
 | [CopperheadOS](https://copperhead.co/android/) | [development](https://github.com/copperheados) | Android |
-| [/e/](https://e.foundation/mobile-phone-os/) |  |  |
+| [EasyOS](https://easyos.org/) |  |  |
 | [ExTix](http://extix.se) |  |  |
 | [Flatcar Linux](https://www.flatcar-linux.org/) |  |  |
 | [Gentoo Studio](https://gentoostudio.org/) |  |  |
+| [MagieOS(https://magpieos.net/)] | [development](https://github.com/Rizwan-Hasan) | Arch |
+| [paranoidandroid](http://paranoidandroid.co/) |  | Android |
 | [Phoenix](http://www.phoenixos.com/) |  | Android/Android-x86 |
-| [Reborn OS](https://rebornos.wordpress.com/) |  |  |
+| [PrimeOS](https://primeos.in/) |  | Android-x86 |
+| [Reborn OS](https://rebornos.wordpress.com/) | [development](https://gitlab.com/RebornOS) | Arch |
 | [Recalbox](https://www.recalbox.com/) |  |  |
+| [Replicant](https://www.replicant.us/) |  | Android |
+| [Resurrection Remix OS](https://www.resurrectionremix.com/) |  | Android |
 | [RetroPie](https://retropie.org.uk/) |  |  |
 | [RetrOrangePi](http://www.retrorangepi.org/) |  |  |
 |  |  |  |
@@ -348,5 +350,9 @@ http://lwn.net/Distributions/
 http://www.ibiblio.org/pub/linux/distributions/
 
 http://www.linuxlinks.com/Distributions/
+
+https://www.debian.org/derivatives/
+
+https://wiki.archlinux.org/index.php/Arch-based_distributions
 
 https://github.com/FabioLolix/Lolix-lists/blob/master/RaspberryPi_OS.md
