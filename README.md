@@ -107,7 +107,6 @@ distro as per the guidelines.
 | Beta | | |
 |-|-|-|
 | [Enso OS](http://www.enso-os.site/) | [development](https://github.com/nick92/Enso-OS) | Ubuntu |
-| [januslinux](https://januslinux.github.io/) | [development](https://github.com/JanusLinux/janus) | independent |
 | [VeltOS](https://velt.io/) | [development](https://github.com/VeltOS) | Arch |
 |  |  |  |
 
