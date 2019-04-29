@@ -8,7 +8,6 @@ Linux Distribution Timeline | CHANGELOGS
 * Added: SwagArch GNU/Linux, Snakeoil OS
 * Added: Hyperbola (thanks to André Silva)
 * Added: Ubuntu Touch (thanks to Michael McMahon)
-* Added: CopperheadOS (thanks to Michael McMahon)
 * Added: Arch Linux 32 (thanks to kRkk)
 * Added: Artix (thanks to PaoJiao, xnano200, konimex)
 * Added: Endless OS (thanks to btreut)
@@ -17,11 +16,12 @@ Linux Distribution Timeline | CHANGELOGS
 * Discontinued: Vyatta, Korora, Hawaii OS, Parsidora
 * Discontinued: DeLi(cate), XBMCbuntu, ZevenOS
 * Discontinued: Symphony OS, Bridge, IPCop, eZeY
-* Discontinued: Hanthana, Revenge OS, Stephenson's Rocket
+* Discontinued: Hanthana, Stephenson's Rocket
 * Discontinued: Chapeau, Finnix, Parsix
 * Discontinued: PoliArch, Android-IA
 * Blacklisted: Mandragora, Keysoft
 * Blacklisted: JOPUX (thanks to jorgenatz)
+* Blacklisted: NanoLinux, Remix OS, Revenge OS
 * Merged: Lede Project into OpenWRT
 * Renamed: Android Wear to Wear OS
 * Renamed: AV to AV Linux

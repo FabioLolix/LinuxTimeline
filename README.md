@@ -55,7 +55,6 @@ distro as per the guidelines.
 | Distro      | Latest release | version |                                                          |
 | ------------|----------------|---------|----------------------------------------------------------|
 | Asianux     | 2015-07-24     | 7 Lotus (RHEL 7) |                                                          |
-| Nanolinux | 2015-12-26 | 1.3 |  |
 
 
 #### 2016
@@ -314,6 +313,9 @@ distro as per the guidelines.
 | Knoppix MiB | [ArchiveOS](https://archiveos.org/knoppix-mib/) |
 | Knoppix-OpenVZ | [ArchiveOS](https://archiveos.org/knoppix-openvz/) |
 | Knorpora | [ArchiveOS](https://archiveos.org/knorpora/) |
+| [Nanolinux](https://sourceforge.net/projects/nanolinux/) | [Distrowatch](https://distrowatch.com/table.php?distribution=nanolinux) |
+| Revenge OS/ OBRevenge OS | [ArchiveOS](https://archiveos.org/revenge/) [Distrowatch](https://distrowatch.com/table.php?distribution=revengeos) |
+| RemixOS | [ArchiveOS](https://archiveos.org/remix-os/) [Distrowatch](https://distrowatch.com/table.php?distribution=remixos) [Wikipedia](https://en.wikipedia.org/wiki/Remix_OS) |
 | Sentnix | [ArchiveOS](https://archiveos.org/sentnix/) |
 | SNAPPIX | [ArchiveOS](https://archiveos.org/snappix/) |
 | [Unexicon](http://www.unexicon.com/) |  |
