@@ -75,7 +75,15 @@ distro as per the guidelines.
 | Distro | Latest release | version |  |
 |-|-|-|-|
 | Tanglu | 2017-06-11 | 4.0 |  |
-| MorpheusArchLinux | 2017-10-23 | 2.0 |  |
+|  |  |  |  |
+
+
+#### 2018
+
+| Distro | Latest release | version |  |
+|-|-|-|-|
+| MorpheusArchLinux | 2018-10-27 | 2018.4 |  |
+| NayuOS | 2018-08-24 | r68 |  |
 |  |  |  |  |
 
 
