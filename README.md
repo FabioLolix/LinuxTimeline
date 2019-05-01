@@ -126,24 +126,25 @@ distro as per the guidelines.
 
 | Waiting list | | |
 |-|-|-|
-| [batocera.linux](https://batocera-linux.xorhub.com/) |  |  |
-| [CAE Linux](https://caelinux.com/CMS3/) |  |  |
+| [Ataraxia Linux](https://ataraxialinux.github.io/) | [development](https://github.com/ataraxialinux/ataraxia) | independent, use its own fork of "pkgutils" from CRUX |
+| [batocera.linux](https://batocera-linux.xorhub.com/) | [development](https://github.com/batocera-linux) | Recalbox |
+| [CAE Linux](https://caelinux.com/CMS3/) | pinguybuilder | Xubuntu |
 | [Condres OS](https://condresos.codelinsoft.it/) | [development](https://github.com/specialworld83) | Arch |
 | [CopperheadOS](https://copperhead.co/android/) | [development](https://github.com/copperheados) | Android |
-| [EasyOS](https://easyos.org/) |  |  |
-| [ExTix](http://extix.se) |  |  |
-| [Flatcar Linux](https://www.flatcar-linux.org/) |  |  |
-| [Gentoo Studio](https://gentoostudio.org/) |  |  |
-| [MagieOS(https://magpieos.net/)] | [development](https://github.com/Rizwan-Hasan) | Arch |
+| [EasyOS](https://easyos.org/) |  | Puppy/Quirky? |
+| [ExTix](http://extix.se) | refracta |  |
+| [Flatcar Linux](https://www.flatcar-linux.org/) | [development](https://github.com/flatcar-linux) | Container Linux |
+| [Gentoo Studio](https://gentoostudio.org/) | [development](https://gentoostudio.org/src/) | Gentoo |
+| [MagpieOS](https://magpieos.net/)] | [development](https://github.com/Rizwan-Hasan) | Arch |
 | [paranoidandroid](http://paranoidandroid.co/) |  | Android |
 | [Phoenix](http://www.phoenixos.com/) |  | Android/Android-x86 |
 | [PrimeOS](https://primeos.in/) |  | Android-x86 |
 | [Reborn OS](https://rebornos.wordpress.com/) | [development](https://gitlab.com/RebornOS) | Arch |
-| [Recalbox](https://www.recalbox.com/) |  |  |
+| [Recalbox](https://www.recalbox.com/) | [development](https://gitlab.com/recalbox) |  |
 | [Replicant](https://www.replicant.us/) |  | Android |
 | [Resurrection Remix OS](https://www.resurrectionremix.com/) |  | Android |
-| [RetroPie](https://retropie.org.uk/) |  |  |
-| [RetrOrangePi](http://www.retrorangepi.org/) |  |  |
+| [RetroPie](https://retropie.org.uk/) | [development](https://github.com/RetroPie) |  |
+| [RetrOrangePi](http://www.retrorangepi.org/) | [development](https://github.com/retr0rangepi) |  |
 |  |  |  |
 
 | **More information needed** | |
