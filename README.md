@@ -135,7 +135,7 @@ distro as per the guidelines.
 | [ExTix](http://extix.se) | refracta |  |
 | [Flatcar Linux](https://www.flatcar-linux.org/) | [development](https://github.com/flatcar-linux) | Container Linux |
 | [Gentoo Studio](https://gentoostudio.org/) | [development](https://gentoostudio.org/src/) | Gentoo |
-| [MagpieOS](https://magpieos.net/)] | [development](https://github.com/Rizwan-Hasan) | Arch |
+| [MagpieOS](https://magpieos.net/) | [development](https://github.com/Rizwan-Hasan) | Arch |
 | [paranoidandroid](http://paranoidandroid.co/) |  | Android |
 | [Phoenix](http://www.phoenixos.com/) |  | Android/Android-x86 |
 | [PrimeOS](https://primeos.in/) |  | Android-x86 |

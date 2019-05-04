@@ -2,6 +2,8 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 19.10 (TBD)
+* Fixed: link for VoidLinux (thanks to Unrealrussian)
+* Renamed: Void to VoidLinux
 
 19.04 2019-04-30
 * Added: Raspbmc/OSMC, OmniROM
@@ -47,8 +49,8 @@ Linux Distribution Timeline | CHANGELOGS
 * Fixed: start date for Void (thanks to Aleppi)
 * Fixed: link for Sage Live (thanks to sergds)
 * Fixed: link for AV Linux
-* Fixed: Link for piCorePlayer (thanks to btreut)
-* Fixed: Link for Deepin (thanks to btreut)
+* Fixed: link for piCorePlayer (thanks to btreut)
+* Fixed: link for Deepin (thanks to btreut)
 * Fixed: link for PelicanHPC
 * Fixed: link for Gibraltar Firewall (thanks to Zitrax)
 * Fixed: link for MAX
