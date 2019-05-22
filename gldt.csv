@@ -529,7 +529,7 @@
 "N","BBQLinux","#0bbcf7","Arch","2012.11.4",,,"http://bbqlinux.org/",,,,,,,,,
 "N","BlackArch","#880001","Arch","2012.12",,,"http://blackarch.org/",,,,,,,,,
 "N","AudioPhile Linux","#0a94c1","Arch","2013.01.24",,,"http://www.ap-linux.com/",,,,,,,,,
-"N","Cinnarch","#214084","Arch","2012.7.19",,,"http://sourceforge.net/projects/cinnarch/","Antergos","2013.5.12","http://antergos.com/",,,,,,
+"N","Cinnarch","#214084","Arch","2012.7.19","2019.05.21",,"http://sourceforge.net/projects/cinnarch/","Antergos","2013.5.12","http://antergos.com/",,,,,,
 "N","Obarun","#1f94be","Arch","2015.07",,,"https://web.obarun.org/",,,,,,,,,
 "N","Apricity","#5BD8B6","Arch","2015.07.28","2017.05.7",,"https://apricity-os.github.io/",,,,,,,,,
 "#N","VeltOS","#d02525","Arch","2015.09.25",,,"https://velt.io/",,,,,,,,,
@@ -538,7 +538,7 @@
 "N","SwagArch GNU Linux","#1793D1","Arch","2016.09.1",,,"https://swagarch.gitlab.io/",,,,,,,,,
 "//N","Liri OS","#ff5722","Arch",,,,"https://liri.io/",,,,,,,,,
 "N","ARCHLabs","#3f3f3f","Arch","2017.03.3",,,"https://archlabsblog.wordpress.com/",,,,,,,,,
-"N","Hyperbola","#c0c0c0","Arch","2017.04.15",,,"https://www.hyperbola.info",,,,,,,,, 
+"N","Hyperbola","#c0c0c0","Arch","2017.04.15",,,"https://www.hyperbola.info",,,,,,,,," "
 "N","Artix","#12ba64","Arch","2017.07.27",,,"https://artixlinux.org/",,,,,,,,,
 "N","ArchMerge","#6790EB","Arch","2017.09.15",,,"https://arcolinux.info/","ArcoLinux","2018.03.11","https://arcolinux.info/",,,,,,
 "N","Arch Linux 32","#0771a6","Arch","2017.11.08",,,"https://archlinux32.org/",,,,,,,,,
