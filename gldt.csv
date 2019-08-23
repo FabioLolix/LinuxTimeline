@@ -227,7 +227,7 @@
 "N","Vyatta","#ff9933","Debian","2006.3.00","2017.10.5",,"http://www.brocade.com/","Brocade Vyatta vRouter","2013.04.00",,,,,,,
 "N","VyOS","#E57D7D","Vyatta","2013.12.22",,,"http://vyos.net/",,,,,,,,,
 "N","Librassoc","#9999aa","Debian","2006.3.23","2008.1.18",,"http://www.librassoc.be/",,,,,,,,,
-"N","PureOS","#2337ff","Debian","2006.8.5","2014.03.03",,"http://pureos.org/",,,,,,,,,
+"N","PureOS","#2337ff","Debian","2006.8.5",,,"https://pureos.net/",,,,,,,,,
 "N","sidux","#7e7e86","Debian","2006.11.24","2016.05.05",,"http://www.sidux.com/","aptosid","2010.9.11","http://www.sidux.com/",,,,,,
 "N","siduction","#535d6c","sidux","2011.12.21",,,"http://siduction.org/",,,,,,,,,
 "N","BOSS","#4848d2","Debian","2007.1.10",,,"http://bosslinux.in/",,,,,,,,,
