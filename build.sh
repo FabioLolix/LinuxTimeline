@@ -15,17 +15,31 @@
 # your PATH)
 GC=
 
-# The basename of the .csv and .conf file
+# The basename of the .conf file
+CONFNAME='gldt'
+
+# The basename of the .csv file
 PROJNAME='gldt'
 
 # Which files to include into the archive
-DISTFILES='gldt.csv gldt.conf CHANGELOG README.md LICENSE images build.sh CONTRIBUTING RELEASE.md'
+DISTFILES="$PROJNAME"'.csv '"$CONFNAME"'.conf CHANGELOG README.md LICENSE images build.sh CONTRIBUTING'
 
 #
 ##########
 # Code starts here
 
 VERS=$1
+
+active_build(){ echo "Generating active data"
+	./removeEOL.py $PROJNAME'.csv' $PROJNAME'_active.csv'
+	echo "Copying active conf data"
+	PROJNAME=$PROJNAME'_active'
+	DISTFILES="$DISTFILES"' gldt_active.sh '$PROJNAME'.csv'
+}
+
+# Check if we are to build active version
+echo "$VERS" | grep -Fxqi 'active' && { VERS=$2; active_build;}
+echo "$2" | grep -Fxqi 'active' && active_build
 
 # Check if which is present. Otherwise abort.
 type -P which &>/dev/null || { echo "which not found: aborting" >&2; exit 1;}
@@ -37,7 +51,7 @@ type -P $GC &>/dev/null && [ -n "$GC" ] ||
 
 # If GC is present (nonempty), check for svg shortcut. Otherwise abort.
 [ -n "$GC" ] || { echo "gnuclad not found: aborting" >&2; exit 1; }
-[ "$VERS" == "svg" ] && { $GC $PROJNAME.csv svg $PROJNAME.conf; exit 0; }
+[ "$VERS" == "svg" ] && { $GC $PROJNAME.csv svg $CONFNAME.conf; exit 0; }
 
 # Run gnuclad and abort on error.
 CHECK=`$GC $PROJNAME.csv $PROJNAME$VERS.svg $PROJNAME.conf`
