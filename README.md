@@ -117,7 +117,7 @@ distro as per the guidelines.
 | [CLIP OS](https://clip-os.org/) | [development](https://github.com/CLIPOS) | Gentoo hardened |
 | [CoreELEC](https://coreelec.org/) | [development](https://github.com/CoreELEC/CoreELEC) | LibreELEC |
 | [Crankshaft](http://getcrankshaft.com/) | [development](https://github.com/opencardev) | Raspbian? (embedded) |
-| [/e/](https://e.foundation/mobile-phone-os/) | [development](https://gitlab.e.foundation/e) | Android |
+| [/e/](https://e.foundation/mobile-phone-os/) | [development](https://gitlab.e.foundation/e) | LineageOS |
 | [Liri](https://liri.io/) | [development](https://github.com/lirios) | Arch |
 | [LudOS](https://ludo.libretro.com/#ludos) | [development](https://github.com/libretro/LudOS) | LibreELEC |
 | [Maemo Leste](https://maemo-leste.github.io/) | [development](https://github.com/maemo-leste) | Devuan (embedded) |
@@ -135,9 +135,11 @@ distro as per the guidelines.
 | [ExTix](http://extix.se) | refracta |  |
 | [Flatcar Linux](https://www.flatcar-linux.org/) | [development](https://github.com/flatcar-linux) | Container Linux |
 | [Gentoo Studio](https://gentoostudio.org/) | [development](https://gentoostudio.org/src/) | Gentoo |
+| [k3os](https://k3os.io/) | [development](https://github.com/rancher/k3os) |  |
 | [MagpieOS](https://magpieos.net/) | [development](https://github.com/Rizwan-Hasan) | Arch |
 | [paranoidandroid](http://paranoidandroid.co/) |  | Android |
 | [Phoenix](http://www.phoenixos.com/) |  | Android/Android-x86 |
+| [Photon](https://vmware.github.io/photon/) | [development](https://github.com/vmware/photon) |  |
 | [PrimeOS](https://primeos.in/) |  | Android-x86 |
 | [Reborn OS](https://rebornos.wordpress.com/) | [development](https://gitlab.com/RebornOS) | Arch |
 | [Recalbox](https://www.recalbox.com/) | [development](https://gitlab.com/recalbox) |  |
