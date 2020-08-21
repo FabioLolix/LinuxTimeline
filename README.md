@@ -44,14 +44,6 @@ CONTRIBUTING, you may delete them from this list, and discontinue their
 distro as per the guidelines.
 
 
-#### 2017
-
-| Distro | Latest release | version |  |
-|-|-|-|-|
-| Tanglu | 2017-06-11 | 4.0 |  |
-|  |  |  |  |
-
-
 #### 2018
 
 | Distro | Latest release | version |  |
