@@ -268,7 +268,7 @@
 "N","Raspyfi","#48bd87","Raspbian","2012.12.21",,,"http://www.raspyfi.com/","Volumio","2013.09.07","https://volumio.org/",,,,,,
 "N","Raspbmc","#0090c4","Raspbian","2013.02.3",,,"https://osmc.tv/","OSMC","2015.06.28","https://osmc.tv/",,,,,,
 "N","Moode","#D35400","Raspbian","2014.08.23",,,"http://moodeaudio.org/",,,,,,,,,
-"N","Point","#9ccaeb","Debian","2012.6.9",,,"http://pointlinux.org/",,,,,,,,,
+"N","Point Linux","#9ccaeb","Debian","2012.6.9","2019.06.21",,"http://pointlinux.org/",,,,,,,,,
 "N","Univention Corporate Server","#E51D3C","Debian","2012.12.14",,,"http://univention.com/",,,,,,,,,
 "N","SparkyLinux","#898483","Debian","2012.12.19",,,"http://sparkylinux.org/",,,,,,,,,
 "N","Rebellin","#31abea","Debian","2013.4.16",,,"http://therebellin.com/",,,,,,,,,
