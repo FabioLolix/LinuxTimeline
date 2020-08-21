@@ -43,11 +43,6 @@ If anything on this list is past their expiration date as defined in
 CONTRIBUTING, you may delete them from this list, and discontinue their
 distro as per the guidelines.
 
-#### 2014
-
-| Distro      | Latest release | version |                                                                     |
-| ------------|----------------|---------|---------------------------------------------------------------------|
-| Lunar Linux | 2014-10-11     | 1.7.0   | http://www.lunar-linux.org/2017/10/18/we-are-still-very-much-alive/ |
 
 #### 2016
 
