@@ -44,16 +44,6 @@ CONTRIBUTING, you may delete them from this list, and discontinue their
 distro as per the guidelines.
 
 
-#### 2016
-
-| Distro      | Latest release | version         |                      |
-| ------------|----------------|-----------------|----------------------|
-| Point Linux | 2016-06-21 | 3.2 agni |  |
-| Simplicity  | 2016-07-31     | 16.07           | discontinued         |
-| Sonar       | 2016-11-02     | 17.01-alpha     | discontinued         |
-|  |  |  |  |
-
-
 #### 2017
 
 | Distro | Latest release | version |  |
@@ -67,7 +57,6 @@ distro as per the guidelines.
 | Distro | Latest release | version |  |
 |-|-|-|-|
 | MorpheusArchLinux | 2018-10-27 | 2018.4 |  |
-| NayuOS | 2018-08-24 | r68 |  |
 |  |  |  |  |
 
 
