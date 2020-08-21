@@ -55,7 +55,6 @@ distro as per the guidelines.
 | ------------|----------------|-----------------|----------------------|
 | Point Linux | 2016-06-21 | 3.2 agni |  |
 | Simplicity  | 2016-07-31     | 16.07           | discontinued         |
-| Viperr      | 2016-08-15     | 0.9 (Fedora 24) | Viperr10 alpha1 2017-09-28 |
 | Sonar       | 2016-11-02     | 17.01-alpha     | discontinued         |
 |  |  |  |  |
 
