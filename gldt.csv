@@ -264,7 +264,7 @@
 "N","LinuxBBQ","#ffea3c","Debian","2012.6.1",,,"http://linuxbbq.org/",,,,,,,,,
 "#N","Cultix","#003355","Debian","2012.6.27",,,"http://cultix.cu.cc/",,,,,,,,,
 "#N","SprezzOS","#8070d8","Debian","2012.7.1",,,"http://www.sprezzatech.com/sprezzos.html",,,,,,,,,
-"N","Raspbian","#c61931","Debian","2012.6",,,"http://raspbian.org/",,,,,,,,,
+"N","Raspbian","#c61931","Debian","2012.6",,,"https://www.raspberrypi.org/","Raspberry Pi OS","2020.05.28","https://www.raspberrypi.org/",,,,,,
 "N","Raspyfi","#48bd87","Raspbian","2012.12.21",,,"http://www.raspyfi.com/","Volumio","2013.09.07","https://volumio.org/",,,,,,
 "N","Raspbmc","#0090c4","Raspbian","2013.02.3",,,"https://osmc.tv/","OSMC","2015.06.28","https://osmc.tv/",,,,,,
 "N","Moode","#D35400","Raspbian","2014.08.23",,,"http://moodeaudio.org/",,,,,,,,,

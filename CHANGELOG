@@ -20,6 +20,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Renamed: Ubuntu DesktopPack to Ubuntu-Pack (there are multiple edition,
            not only desktop related) (thanks to xingjiapeng)
 * Renamed: GuixSD to Guix System (thanks to xingjiapeng)
+* Renamed: Raspbian to Raspberry Pi OS
 * Fixed: link for VoidLinux (thanks to Unrealrussian)
 * Fixed: link for Lihuen
 
