@@ -19,6 +19,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Renamed: gnuLiNex to gnuLinEx (thanks to xingjiapeng)
 * Renamed: Ubuntu DesktopPack to Ubuntu-Pack (there are multiple edition,
            not only desktop related) (thanks to xingjiapeng)
+* Renamed: GuixSD to Guix System (thanks to xingjiapeng)
 * Fixed: link for VoidLinux (thanks to Unrealrussian)
 * Fixed: link for Lihuen
 
