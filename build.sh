@@ -47,7 +47,7 @@ echo -e "$CHECK"
 # Check for Inkscape and run it if present. Otherwise ignore.
 INK=$(which inkscape)
 [ -n "$INK" ] || echo "Inkscape not found: will not generate png"
-[ -n "$INK" ] && $INK $PROJNAME$VERS.svg -D --export-png=$PROJNAME$VERS.png
+[ -n "$INK" ] && $INK $PROJNAME$VERS.svg -D --export-type=png
 
 # Packaging
 echo "Packaging..."
