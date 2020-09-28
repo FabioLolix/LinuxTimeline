@@ -29,8 +29,8 @@ gen_svg()
 }
 
 gen_png() {
-    msg "Generating $PROJNAME$VERS.png..."
     [ "$tl_run" ] || gen_svg
+    msg "Generating $PROJNAME$VERS.png..."
     command -v convert >/dev/null || (warn "ImageMagick not found! PNG not generated"; return 1)
     convert "dist/$PROJNAME$VERS.svg" "dist/$PROJNAME$VERS.png"
     msg "Generated dist/$PROJNAME$VERS.png"
@@ -38,9 +38,9 @@ gen_png() {
 }
 
 dist() {
-    msg "Generating $PROJNAME$VERS.tar.gz ..."
     [ "$tl_run" ]              || gen_svg
     [ "$png_run" ]             || gen_png
+    msg "Generating $PROJNAME$VERS.tar.gz ..."
     command -v tar  >/dev/null || die "tar not found"
     command -v gzip >/dev/null || die "gzip not found"
 
