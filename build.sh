@@ -1,67 +1,75 @@
-#!/usr/bin/env bash
-# Builds dist files from the current working branch.
+#!/bin/sh
 #
-# You can specify the version as first argument:
-#   ./build.sh 1234
+# Linux Timeline build script
 #
-# Exception: if the argument is "svg", this script will only generate
-# the svg file and omit the rest.
+# Specify project name (default: gldt)
+PROJNAME="${PROJNAME:=gldt}"
 
+msg() {
+    printf "==> %s%s\n" "$2" "$1"
+}
 
-##########
-# Configuration
+die() {
+    msg "$1" "ERROR: "
+    exit 1
+}
 
-# Custom path to gnuclad (leave empty if you already installed it in
-# your PATH)
-GC=
+warn() {
+    msg "$1" "WARNING: "
+}
 
-# The basename of the .csv and .conf file
-PROJNAME='gldt'
+gen_svg()
+{
+    msg "Generating $PROJNAME$VERS.svg..."
+    GC="${GC:=gnuclad}"
+    command -v "$GC" >/dev/null || die "gnuclad not found"
+    "$GC" "$PROJNAME.csv" "dist/$PROJNAME$VERS.svg" "$PROJNAME.conf" || exit 1
+    msg "Generated dist/$PROJNAME$VERS.svg"
+    tl_run=1
+}
 
-# Which files to include into the archive
-DISTFILES='gldt.csv gldt.conf CHANGELOG README.md LICENSE images build.sh CONTRIBUTING'
+gen_png() {
+    [ "$tl_run" ] || gen_svg
+    msg "Generating $PROJNAME$VERS.png..."
+    command -v convert >/dev/null || (warn "ImageMagick not found! PNG not generated"; return 1)
+    convert "dist/$PROJNAME$VERS.svg" "dist/$PROJNAME$VERS.png"
+    msg "Generated dist/$PROJNAME$VERS.png"
+    png_run=1
+}
 
-#
-##########
-# Code starts here
+dist() {
+    [ "$tl_run" ]              || gen_svg
+    [ "$png_run" ]             || gen_png
+    msg "Generating $PROJNAME$VERS.tar.gz ..."
+    command -v tar  >/dev/null || die "tar not found"
+    command -v gzip >/dev/null || die "gzip not found"
 
-VERS=$1
+    tar cf "dist/$PROJNAME$VERS.tar" "$PROJNAME.csv" "$PROJNAME.conf" CHANGELOG README.md LICENSE images build.sh CONTRIBUTING
+    gzip -f "dist/$PROJNAME$VERS.tar"
 
-# Check if which is present. Otherwise abort.
-type -P which &>/dev/null || { echo "which not found: aborting" >&2; exit 1;}
+    msg "Generated dist/$PROJNAME$VERS.tar.gz"
+}
 
-# Check if custom path is valid and nonempty. Otherwise try to get it via which.
-type -P $GC &>/dev/null && [ -n "$GC" ] ||
-	{ [ -n "$GC" ] && echo "No gnuclad in custom path: using PATH (which)";
-	GC=$(which gnuclad); }
+# shellcheck disable=2016
+usage() {
+    msg "Usage: $0 [opt]"
+    msg '   svg             Generate the timeline in SVG format'
+    msg '   png             Generate a PNG file of the timeline'
+    msg '   help            Display help'
+    msg '   (any other)     Create a distribution tarball with the specified name'
+    msg 'Accepted environment variables:'
+    msg '   $GC             Path for gnuclad'
+    msg '   $PROJNAME       Project name (default: gldt)'
+}
 
-# If GC is present (nonempty), check for svg shortcut. Otherwise abort.
-[ -n "$GC" ] || { echo "gnuclad not found: aborting" >&2; exit 1; }
-[ "$VERS" == "svg" ] && { $GC $PROJNAME.csv svg $PROJNAME.conf; exit 0; }
+main() {
+    [ -d dist ] || mkdir -p dist
+    case $1 in
+        'svg') shift; VERS="$1"; gen_svg ;;
+        'png') shift; VERS="$1"; gen_png ;;
+        '-h'|'help') usage ;;
+        *) VERS="$1"; dist ;;
+    esac
+}
 
-# Run gnuclad and abort on error.
-CHECK=`$GC $PROJNAME.csv $PROJNAME$VERS.svg $PROJNAME.conf`
-echo -e "$CHECK"
-[[ `echo -e "$CHECK" | grep "^Error:"` ]] && exit 1;
-
-# Check for Inkscape and run it if present. Otherwise ignore.
-INK=$(which inkscape)
-[ -n "$INK" ] || echo "Inkscape not found: will not generate png"
-[ -n "$INK" ] && $INK $PROJNAME$VERS.svg -D --export-type=png
-
-# Packaging
-echo "Packaging..."
-type -P tar &>/dev/null || { echo "tar not found: aborting" >&2; exit 1;}
-type -P bzip2 &>/dev/null || { echo "bzip2 not found: aborting" >&2; exit 1;}
-
-tar -c $DISTFILES > $PROJNAME$VERS.tar
-bzip2 $PROJNAME$VERS.tar
-
-BDIR="DIST_$PROJNAME$VERS"
-mkdir -p $BDIR
-mv $PROJNAME$VERS.svg $BDIR
-[ -n "$INK" ] && mv $PROJNAME$VERS.png $BDIR
-mv $PROJNAME$VERS.tar.bz2 $BDIR
-
-echo "Distribution can be found in $BDIR"
-
+main "$@"

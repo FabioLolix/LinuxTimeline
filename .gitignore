@@ -1,5 +1,2 @@
-*.svg
-*.png
-*.tar.bz2
+/dist/*
 .~lock.gldt.csv#
-
