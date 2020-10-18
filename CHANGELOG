@@ -3,7 +3,6 @@ Linux Distribution Timeline | CHANGELOGS
 
 20.10 2020.10.25
 * Added: Ataraxia Linux (thanks to Protonesso)
-* Base hop: SUSE
 * Blacklisted: Swift (celebrity related distro)
 * Blacklisted: ChaletOS (2 release only in a 1 year lifespan, then nothing more)
 * Continued: Red Flag (+ new link) (thanks to xingjiapeng)
@@ -15,6 +14,8 @@ Linux Distribution Timeline | CHANGELOGS
 * Discontinued: Container Linux (previously CoreOS)
 * Discontinued: Antergos (thanks to pushkar-bharambe)
 * Discontinued: Flint OS (merged into CloudReady)
+* Rebased: SUSE
+* Rebased: Kali (based on Debian)
 * Renamed: Void to VoidLinux
 * Renamed: Ylmf to Ylmf OS (thanks to xingjiapeng)
 * Renamed: Sparky to Sparky Linux (thanks to xingjiapeng)
