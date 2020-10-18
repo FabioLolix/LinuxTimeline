@@ -1,7 +1,7 @@
 Linux Distribution Timeline | CHANGELOGS
 ========================================
 
-??.?? (TBD)
+20.10 2020.10.25
 * Added: Ataraxia Linux (thanks to Protonesso)
 * Blacklisted: Swift (celebrity related distro)
 * Blacklisted: ChaletOS (2 release only in a 1 year lifespan, then nothing more)
@@ -11,6 +11,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Discontinued: Viperr, Lunar Linux, Sonar GNU/Linux
 * Discontinued: Tanglu
 * Discontinued: Container Linux (previously CoreOS)
+* Discontinued: Antergos (thanks to pushkar-bharambe)
 * Renamed: Void to VoidLinux
 * Renamed: Ylmf to Ylmf OS (thanks to xingjiapeng)
 * Renamed: Sparky to Sparky Linux (thanks to xingjiapeng)
@@ -24,6 +25,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Renamed: Raspbian to Raspberry Pi OS
 * Fixed: link for VoidLinux (thanks to Unrealrussian)
 * Fixed: link for Lihuen
+* Misc: rewrite of build.sh in POSIX shell by Konimex
 
 19.04 2019-04-30
 * Added: Raspbmc/OSMC, OmniROM
