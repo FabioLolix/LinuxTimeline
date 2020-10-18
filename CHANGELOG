@@ -29,6 +29,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Fixed: link for Lihuen
 * Fixed: Slackware started before Debian
 * Fixed: start date for Nethserver (not definitive)
+* Fixed: start date for Chromium OS
 * Misc: rewrite of build.sh in POSIX shell by Konimex
 
 19.04 2019-04-30
