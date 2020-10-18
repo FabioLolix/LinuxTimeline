@@ -446,7 +446,7 @@
 "N","Asterisk at Home","#599116","CentOS","2004.11.9","2012.10",,"http://www.trixbox.org/","trixbox","2006.6","http://www.trixbox.org/",,,,,,
 "N","Elastix","#df1f29","CentOS","2006.12.29",,,"http://www.elastix.org/",,,,,,,,,
 "N","BlueOnyx","#0e264c","CentOS","2008.12.31",,,"http://www.blueonyx.it/",,,,,,,,,
-"N","OpenNode","#004d99","CentOS","2010.2.21",,,"http://opennodecloud.com/",,,,,,,,,
+"#N","OpenNode","#004d99","CentOS","2010.2.21",,,"http://opennodecloud.com/",,,,,,,,,
 "N","NethServer","#259ed5","CentOS","2015.01.28",,,"https://www.nethserver.org/",,,,,,,,,
 "N","Baruwa","#00a8dc","CentOS","2015.8.10",,,"https://baruwa.com",,,,,,,,,
 "N","Rockstor","#e96748","CentOS","2013.11.20",,,"http://rockstor.com",,,,,,,,,
