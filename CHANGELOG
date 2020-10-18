@@ -19,6 +19,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Rebased: SUSE
 * Rebased: Kali (based on Debian)
 * Rebased: Volumio (based on Debian)
+* Rebased: SystemRescueCD (now on Arch)
 * Renamed: Void to VoidLinux
 * Renamed: Ylmf to Ylmf OS (thanks to xingjiapeng)
 * Renamed: Sparky to Sparky Linux (thanks to xingjiapeng)
@@ -30,8 +31,10 @@ Linux Distribution Timeline | CHANGELOGS
            not only desktop related) (thanks to xingjiapeng)
 * Renamed: GuixSD to Guix System (thanks to xingjiapeng)
 * Renamed: Raspbian to Raspberry Pi OS
+* Renamed: SystemRescueCD to SystemRescue
 * Fixed: link for VoidLinux (thanks to Unrealrussian)
 * Fixed: link for Lihuen
+* Fixed: links for SystemRescueCD/SystemRescue
 * Fixed: Slackware started before Debian
 * Fixed: start date for Nethserver (not definitive)
 * Fixed: start date for Chromium OS
