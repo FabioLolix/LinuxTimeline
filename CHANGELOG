@@ -16,6 +16,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Discontinued: Flint OS (merged into CloudReady)
 * Rebased: SUSE
 * Rebased: Kali (based on Debian)
+* Rebased: Volumio (based on Debian)
 * Renamed: Void to VoidLinux
 * Renamed: Ylmf to Ylmf OS (thanks to xingjiapeng)
 * Renamed: Sparky to Sparky Linux (thanks to xingjiapeng)
