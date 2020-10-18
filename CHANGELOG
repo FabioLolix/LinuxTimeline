@@ -3,6 +3,7 @@ Linux Distribution Timeline | CHANGELOGS
 
 20.10 2020.10.25
 * Added: Ataraxia Linux (thanks to Protonesso)
+* Base hop: SUSE
 * Blacklisted: Swift (celebrity related distro)
 * Blacklisted: ChaletOS (2 release only in a 1 year lifespan, then nothing more)
 * Continued: Red Flag (+ new link) (thanks to xingjiapeng)
@@ -25,6 +26,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Renamed: Raspbian to Raspberry Pi OS
 * Fixed: link for VoidLinux (thanks to Unrealrussian)
 * Fixed: link for Lihuen
+* Fixed: Slackware started before Debian
 * Misc: rewrite of build.sh in POSIX shell by Konimex
 
 19.04 2019-04-30
