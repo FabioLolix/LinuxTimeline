@@ -20,6 +20,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Blacklisted: MorpheusArch Linux (too short lifetime)
 * Blacklisted: SwagArch GNU/Linux (too short lifetime)
 * Blacklisted: Maui Linux (too short lifetime)
+* Blacklisted: Handy Linux (too short lifetime)
 * Continued: Red Flag (thanks to xingjiapeng)
 * Continued: Finnix
 * Continued: Draco
@@ -30,9 +31,8 @@ Linux Distribution Timeline | CHANGELOGS
 * Discontinued: Antergos (thanks to pushkar-bharambe)
 * Discontinued: Flint OS (merged into CloudReady)
 * Discontinued: Superb Mini Server, Christian Edition
-* Discontinued: Ulteo, DEFT, HandyLinux
+* Discontinued: Ulteo, DEFT, Voyage Linux
 * Discontinued: Semplice, LinuxBBQ, wattOS, UberStudent
-* Discontinued: Voyage Linux
 * Rebased: SUSE
 * Rebased: Kali (based on Debian)
 * Rebased: Volumio (based on Debian)
