@@ -358,7 +358,7 @@
 "N","Caldera OpenLinux","#5ea3db","Red Hat","1996.2","2002.11.19",,"http://en.wikipedia.org/wiki/Caldera_OpenLinux","SCO OpenLinux","2002.8.26","http://www.sco.com/",,,,,,
 "N","Redmond","#33812b","Caldera OpenLinux","2001.12.8","2005.6.15",,"http://freshmeat.net/projects/redmondlinux/","Lycoris Desktop/LX","2002.1","http://en.wikipedia.org/wiki/Lycoris_%28company%29",,,,,,
 "N","LinuxPPC","#4cc931","Red Hat","1997.4","2001",,"http://lists.ozlabs.org/listinfo/linuxppc-dev",,,,,,,,,
-"N","UltraPenguin","#000","Red Hat","1997.7","1998.12",,"http://ultra.linux.cz/",,,,,,,,,
+"#N","UltraPenguin","#000","Red Hat","1997.7","1998.12",,"http://ultra.linux.cz/",,,,,,,,,
 "N","Conectiva","#4c3065","Red Hat","1997.10","2005.1.24",,"http://www.mandriva.com.br/",,,,,,,,,
 "N","Buhawi","#99ccff","Red Hat","1997.12.21","2004.9.18",,"http://bluepoint.com.ph/buhawi/",,,,,,,,,
 "N","PLD","#3f89d0","Red Hat","1998",,,"http://www.pld-linux.org/",,,,,,,,,
