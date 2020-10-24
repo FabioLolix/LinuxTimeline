@@ -405,7 +405,7 @@
 "N","ClarkConnect","#608921","Red Hat","2000.11",,,"http://www.clarkconnect.com/","ClearOS","2009.10.5","http://www.clearfoundation.com/",,,,,,
 "N","ASPLinux","#8888dd","Red Hat","2001.3.22","2008.11.26",,"http://www.asplinux.ru/",,,,,,,,,
 "N","Aurora","#ffa51e","Red Hat","2001.11.5","2009.11.8",,"http://auroralinux.org/",,,,,,,,,
-"N","SuperRescue","#4ba284","Red Hat","2001.5.1","2003",,"http://www.kernel.org/pub/dist/superrescue/",,,,,,,,,
+"#N","SuperRescue","#4ba284","Red Hat","2001.5.1","2003",,"http://www.kernel.org/pub/dist/superrescue/",,,,,,,,,
 "N","Independence","#993333","Red Hat","2001.6","2008",,"http://independence.seul.org/",,,,,,,,,
 "#N","HP Secure","#0d56ce","Red Hat","2001.7.26","2002.10.15",,"http://www.hp.com/security/products/linux/",,,,,,,,,
 "N","K12","#5ac8f0","Red Hat","2001.7","2017",,"http://k12linux.org/",,,,,,,,,
