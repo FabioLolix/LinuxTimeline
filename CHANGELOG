@@ -23,6 +23,8 @@ Linux Distribution Timeline | CHANGELOGS
 * Rebased: Kali (based on Debian)
 * Rebased: Volumio (based on Debian)
 * Rebased: SystemRescueCD (Arch since 2019.02.02)
+* Rebased: WHAX (based on Slax)
+* Rebased: Backtrack (Ubuntu since 2010.01.9)
 * Renamed: Void to VoidLinux
 * Renamed: Ylmf to Ylmf OS (thanks to xingjiapeng)
 * Renamed: Sparky to Sparky Linux (thanks to xingjiapeng)
@@ -36,6 +38,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Renamed: Raspbian to Raspberry Pi OS
 * Renamed: SystemRescueCD to SystemRescue
 * Renamed: Voyage to Voyage Linux
+* Renamed: Auditor Security Linux to Auditor Security Collection
 * Fixed: link for VoidLinux (thanks to Unrealrussian)
 * Fixed: link for Lihuen
 * Fixed: links for SystemRescueCD/SystemRescue
