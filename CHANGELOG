@@ -6,7 +6,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Blacklisted: Swift (celebrity related distro)
 * Blacklisted: ChaletOS (2 release only in a 1 year lifespan, then nothing more)
 * Blacklisted: OpenNode (no distro found)
-* Continued: Red Flag (+ new link) (thanks to xingjiapeng)
+* Continued: Red Flag (thanks to xingjiapeng)
 * Continued: Finnix
 * Continued: Draco
 * Discontinued: Point Linux (thanks to xingjiapeng)
@@ -22,7 +22,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Rebased: SUSE
 * Rebased: Kali (based on Debian)
 * Rebased: Volumio (based on Debian)
-* Rebased: SystemRescueCD (now on Arch)
+* Rebased: SystemRescueCD (Arch since 2019.02.02)
 * Renamed: Void to VoidLinux
 * Renamed: Ylmf to Ylmf OS (thanks to xingjiapeng)
 * Renamed: Sparky to Sparky Linux (thanks to xingjiapeng)
@@ -39,6 +39,8 @@ Linux Distribution Timeline | CHANGELOGS
 * Fixed: link for VoidLinux (thanks to Unrealrussian)
 * Fixed: link for Lihuen
 * Fixed: links for SystemRescueCD/SystemRescue
+* Fixed: link for MCC Interim (thanks to SoulRepo)
+* Fixed: link for Red Flag (thanks to xingjiapeng)
 * Fixed: Slackware started before Debian
 * Fixed: start date for Nethserver (not definitive)
 * Fixed: start date for Chromium OS
