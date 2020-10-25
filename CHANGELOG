@@ -57,6 +57,9 @@ Linux Distribution Timeline | CHANGELOGS
 * Rebased: Linkat (OpenSUSE since 2009.10.15)
 * Rebased: Linkat (Ubuntu since 2011.11.25)
 * Rebased: Stresslinux (OpenSUSE since 2010.04.13)
+* Rebased: Hiweed Linux (Debian since 2004.7.22)
+* Rebased: Hiweed Linux (Ubuntu since 2006.09.25)
+* Rebased: deepin (Debian since 2015.12.30)
 * Renamed: Void to VoidLinux
 * Renamed: Ylmf to Ylmf OS (thanks to xingjiapeng)
 * Renamed: Sparky to Sparky Linux (thanks to xingjiapeng)
@@ -80,6 +83,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Fixed: Slackware started before Debian
 * Fixed: start date for Nethserver (not definitive)
 * Fixed: start date for Chromium OS
+* Fixed: deepin history (thanks to xingjiapeng)
 * Misc: rewrite of build.sh in POSIX shell by Konimex
 
 19.04 2019-04-30
