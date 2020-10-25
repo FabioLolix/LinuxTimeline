@@ -2,8 +2,8 @@
 #
 # Linux Timeline build script
 #
-# Specify project name (default: gldt)
-PROJNAME="${PROJNAME:=gldt}"
+# Specify project name (default: ldt)
+PROJNAME="${PROJNAME:=ldt}"
 
 msg() {
     printf "==> %s%s\n" "$2" "$1"
@@ -59,7 +59,7 @@ usage() {
     msg '   (any other)     Create a distribution tarball with the specified name'
     msg 'Accepted environment variables:'
     msg '   $GC             Path for gnuclad'
-    msg '   $PROJNAME       Project name (default: gldt)'
+    msg '   $PROJNAME       Project name (default: ldt)'
 }
 
 main() {

@@ -9,17 +9,14 @@ but you'll ease my job if you do. :)
 
 Open an issue on github
 =======================
-Just open an Issue in GitHub and fill in the template. 
 
-If you don't want to open a GitHub account you can contact me by mail at loli_fabio@protonmail.com
+Open a new issue: https://github.com/FabioLolix/LinuxTimeline/issues/new/choose
 
-on Twitter https://twitter.com/Fabio_Lolix 
+If you don't want to open a GitHub account you can contact me by mail at fabio.loli@disroot.org
 
-or leave a comment on blogspot https://fabiololix.blogspot.it/
 
-Pull Request on github, proceed below
-==========
 Formatting
+==========
 
 Since we're working with CSV format, you can fill the right column
 rather easily, since it is self-explanatory.
@@ -42,7 +39,8 @@ I'll just give an example of how we can get it done.
 		"Fedora Core" based on Red Hat
 		"CentOS" based on Red Hat
 
-Keep the original timeline
+
+Keep the original timeline (deprecated)
 ==========================
 
 Don't understand what I meant? For example, S.u.S.E, before rebasing
@@ -60,12 +58,12 @@ explain it again.
 4: Developer & code sharing, project merging, hard forking
    (e.g. Maemo to MeeGo)
 
-Announcement date OR first stable release?
-==========================================
-For start dates, it is preferred to use an announcement date. However,
-if you have no information of announcement date (or you are too lazy to
-find information about it) then you can use first stable release just
-fine.
+
+Start date
+==========
+For start dates use the date when the code has been made publicy available,
+otherwise use the date of the first public release.
+
 
 Dead Distros
 ============
@@ -93,20 +91,3 @@ upstream distro (which is the discontinued one) to the first
 announcement (or first stable release) of the fork distro. Case in
 point: MeeGo (to Mer and Tizen).
 
-Another interesting case is CrunchBang, it was discontinued, but it has
-two forks, one declared as its successor (BunsenLabs), if this case were
-to happen again:
-
-1. If the discontinued distro's maintainers declared a distro as their
-   successor (even if it is originally a fork), do NOT discontinue the
-   main distro, instead, put a new name on that distro (I guess if you
-   regularly worked on the csv, you'll know what I mean).
-
-2. If the discontinued distro's maintainers doesn't decide on successors,
-   then use the usual forking.
-
-
-P.S.
-====
-Please avoid fuss about GNU/Linux vs Linux and GNU/Linux vs Android
-This will **maybe** be sorted out in the future
