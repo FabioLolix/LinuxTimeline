@@ -3,7 +3,7 @@ Linux Distribution Timeline | README
 
 * Copyright (C) 2010-2012 Andreas Lundqvist, Donjan Rodic, Mohammed A. Mustafa
 * Copyright (C) 2016 Muhammad Herdiansyah
-* Copyright (C) 2016-2020 Fabio Loli
+* Copyright (C) 2016-2021 Fabio Loli
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3 or
