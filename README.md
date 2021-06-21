@@ -10,7 +10,7 @@ under the terms of the GNU Free Documentation License, Version 1.3 or
 any later version published by the Free Software Foundation; with no
 Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
-Original source: http://futurist.se/gldt/
+Original source: https://futurist.se/gldt/
 
 Current source: https://github.com/FabioLolix/LinuxTimeline
 
@@ -52,7 +52,7 @@ https://github.com/FabioLolix/fabiololix.gitlab.io
 | **Projects which are not a Linux distribution** |  |
 |-|-|
 | [Barebox](https://www.barebox.org/) | Bootloader designed for embedded systems. It runs on a variety of architectures including x86, ARM, MIPS, PowerPC and others |
-| [OpenEmbedded](http://www.openembedded.org/) | Software framework for creating embedded Linux distributions |
+| [OpenEmbedded](https://www.openembedded.org/) | Software framework for creating embedded Linux distributions |
 | [PTXdist](https://www.ptxdist.org/) | Build system for firmware images, the collection of recipes is based on GNU Make and Bash |
 | [rauc](https://www.rauc.io/) | Lightweight update client that runs on your embedded Linux  |
 | [Yocto Project](https://www.yoctoproject.org/) | Complete embedded Linux development environment |
@@ -65,11 +65,11 @@ https://distrowatch.com/
 
 https://archiveos.org/linux/
 
-http://lwn.net/Distributions/
+https://lwn.net/Distributions/
 
-http://www.ibiblio.org/pub/linux/distributions/
+https://www.ibiblio.org/pub/linux/distributions/
 
-http://www.linuxlinks.com/Distributions/
+https://www.linuxlinks.com/Distributions/
 
 https://www.debian.org/derivatives/
 
