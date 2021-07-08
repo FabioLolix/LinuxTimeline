@@ -468,6 +468,8 @@
 "N","Oracle Enterprise","#f00","Red Hat","2006.10.25",,,"https://fabiololix.gitlab.io/os/linux/o/oracle-linux","Oracle Linux","2007.6.26","https://fabiololix.gitlab.io/os/linux/o/oracle-linux",,,,,,
 "#N","FrameOS","#000","Red Hat","2010.7.15",,,"http://www.frameos.org/",,,,,,,,,
 "N","ServOS","#4b78a7","Red Hat","2011.7",,,"https://fabiololix.gitlab.io/os/linux/s/servos",,,,,,,,,
+"N","AlmaLinux","#082336","Red Hat","2021.3",,,"https://almalinux.org",,,,,,,,,
+
 ,,,,,,,,,,,,,,,,
 "N","Jurix","#9f9f9f",,"1995.2.8","1997",,"https://fabiololix.gitlab.io/os/linux/j/jurix",,,,,,,,,
 "N","S.u.S.E ","#7ad4aa","Jurix","1996.5",,,"https://fabiololix.gitlab.io/os/linux/s/suse","SuSE","1998.12","https://fabiololix.gitlab.io/os/linux/s/suse","SUSE","2003.10.24","https://fabiololix.gitlab.io/os/linux/s/suse",,,
