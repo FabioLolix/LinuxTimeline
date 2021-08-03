@@ -328,6 +328,8 @@
 "#N","Cultix","#003355","Debian","2012.6.27",,,"http://cultix.cu.cc/",,,,,,,,,
 "#N","SprezzOS","#8070d8","Debian","2012.7.1",,,"http://www.sprezzatech.com/sprezzos.html",,,,,,,,,
 "N","Raspbian","#c61931","Debian","2012.6",,,"https://fabiololix.gitlab.io/os/linux/r/raspberry-pi-os","Raspberry Pi OS","2020.05.28","https://fabiololix.gitlab.io/os/linux/r/raspberry-pi-os",,,,,,
+"N","AmogOS","#f2f1ed","Raspbian","2021.05.24",,,"https://www.jostroos.ml/amogos/",,,,,,,,,
+"N","Twister OS","#8f37db","Raspbian","2020.05.29",,,"https://twisteros.com/",,,,,,,,,
 "N","Raspyfi","#48bd87","Raspbian","2012.12.21","2013.09.07",,"https://fabiololix.gitlab.io/os/linux/v/volumio",,,,,,,,,
 "N","Raspbmc","#0090c4","Raspbian","2013.02.3",,,"https://fabiololix.gitlab.io/os/linux/o/osmc","OSMC","2015.06.28","https://fabiololix.gitlab.io/os/linux/o/osmc",,,,,,
 "N","Moode","#D35400","Raspbian","2014.08.23",,,"https://fabiololix.gitlab.io/os/linux/m/moode",,,,,,,,,
