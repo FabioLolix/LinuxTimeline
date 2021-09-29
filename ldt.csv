@@ -465,6 +465,7 @@
 "#N","BioBrew","#21896c","Red Hat","2004.1.20","2005.2.23",,"http://biobrew.bioinformatics.org/",,,,,,,,,
 "N","CERN","#4078c3","Red Hat","2004.4.16",,,"https://fabiololix.gitlab.io/os/linux/c/cern",,,,,,,,,
 "N","Scientific","#191756","Red Hat","2004.5.10",,,"https://fabiololix.gitlab.io/os/linux/s/scientific",,,,,,,,,
+"N","EuroLinux","#005ba5","Red Hat","2015.7.15",,,"https://fabiololix.gitlab.io/os/linux/e/eurolinux/",,,,,,,,,
 "N","StartCom","#000","Red Hat","2004.8.26","2012.07.08",,"https://fabiololix.gitlab.io/os/linux/s/startcom",,,,,,,,,
 "N","Endian","#7cb900","Red Hat","2006.7.13",,,"https://fabiololix.gitlab.io/os/linux/e/endian",,,,,,,,,
 "N","Oracle Enterprise","#f00","Red Hat","2006.10.25",,,"https://fabiololix.gitlab.io/os/linux/o/oracle-linux","Oracle Linux","2007.6.26","https://fabiololix.gitlab.io/os/linux/o/oracle-linux",,,,,,
