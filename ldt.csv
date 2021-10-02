@@ -613,7 +613,7 @@
 "N","Ark","#545454",,"2001.8","2011.05.15",,"https://fabiololix.gitlab.io/os/linux/a/ark",,,,,,,,,
 "N","NetStation","#116daa",,"2001.8.28","2003.9",,"https://fabiololix.gitlab.io/os/linux/n/netstation",,,,,,,,,
 "N","Thinstation","#000","NetStation","2003.8.30",,,"https://fabiololix.gitlab.io/os/linux/t/thinstation",,,,,,,,,
-"N","LPS","#2757ab","Thinstation","2007.3.21",,,"https://fabiololix.gitlab.io/os/linux/t/tens","TENS","2017.03.31","https://fabiololix.gitlab.io/os/linux/t/tens",,,,,,
+"N","LPS","#2757ab","Thinstation","2007.3.21","2021.09.6",,"https://fabiololix.gitlab.io/os/linux/t/tens","TENS","2017.03.31","https://fabiololix.gitlab.io/os/linux/t/tens",,,,,,
 "N","Sorcerer","#36ce3b",,"2001.10","2004.06.20",,"https://fabiololix.gitlab.io/os/linux/s/sorcerer",,,,,,,,,
 "N","Lunar Linux","#6257cd","Sorcerer","2002.3",,,"https://fabiololix.gitlab.io/os/linux/l/lunar-linux",,,,,,,,,
 "N","Source Mage","#bf3032","Sorcerer","2002.4",,,"https://fabiololix.gitlab.io/os/linux/s/source-mage",,,,,,,,,
