@@ -37,14 +37,17 @@ containing the source, ImageMagick is required to convert from svg to png.
 
 ### Info archive
 
-Since timeline version 20.10 all links are replaced to the correspective page 
+Since timeline version 21.10 all links are replaced to the correspective page 
+at the info archive https://distroware.gitlab.io/
+
+For version 20.10 all links are replaced to the correspective page 
 at the info archive https://fabiololix.gitlab.io/
 
 It is open and can be built using Mkdocs static site generator, code hosted both at
 
-https://gitlab.com/FabioLolix/fabiololix.gitlab.io
+https://gitlab.com/Distroware/distroware.gitlab.io
 
-https://github.com/FabioLolix/fabiololix.gitlab.io
+https://github.com/FabioLolix/distroware.gitlab.io
 
 
 ### Projects which are not a Linux distribution
