@@ -2,6 +2,10 @@ Linux Distribution Timeline | CHANGELOGS
 ========================================
 
 21.10 TBD
+* Added: EuroLinux (thanks to  jakub-olczyk, AlexBaranowski and Barnabasz)
+* Added: postmarketOS (thanks to krkk)
+* Blacklisted: bundled with hardware only distros (CromeOS, etc)
+* Blacklisted: commercial only (no sources) embedded distros (ELinOS, etc)
 * Continued: Lunar Linux (thanks to dagbrown)
 * Discontinued: OpenELEC
 * Discontinued: Qomo (thanks to OkayPJ)
@@ -10,6 +14,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Rebased: OSMC (Debian since 2015.06.28, thanks to jb2cool)
 * Rebased: AV Linux (MX Linux since 2020.11.25)
 * Rebased: Finnix (Debian since 2005.10.23)
+* Fixed: SUSE and openSUSE history
 
 20.10 2020.10.25
 * Added: Ataraxia Linux (thanks to Protonesso)
