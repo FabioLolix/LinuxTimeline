@@ -522,6 +522,7 @@
 "#N","OccupyOS","#000","Enoch","2011.10.23",,,"http://wiki.gitbrew.org/wikibrew/OccupyOS",,,,,,,,,
 "N","Daphile","#9f1d35","Enoch","2013.07.09",,,"https://distroware.gitlab.io/os/Linux/d/daphile",,,,,,,,,
 "N","CoreOS","#F15F6F","Enoch","2013.10.3","2020.05.26",,"https://distroware.gitlab.io/os/Linux/c/container-linux","Container Linux","2016.12.12","https://distroware.gitlab.io/os/Linux/c/container-linux",,,,,,
+"#N","Flatcar Container Linux","#09BAC8","CoreOS","2018.03.06",,,"https://distroware.gitlab.io/os/Linux/c/flatcar-container-linux",,,,,,,,,
 "N","Porteus Kiosk","#0C0073","Enoch","2015.03.02",,,"https://distroware.gitlab.io/os/Linux/p/porteus-kiosk",,,,,,,,,
 "N","wtfplay-live","#000","Enoch","2016.02",,,"https://distroware.gitlab.io/os/Linux/w/wtfplay-live",,,,,,,,,
 ,,,,,,,,,,,,,,,,
