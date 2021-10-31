@@ -1,9 +1,9 @@
 ---
 name: Add a Linux distribution
-about: If there's a new Linux distro, submit an issue here
+about: For new Linux distro, submit an issue here
 ---
 
-Will be added distributions that have a fullfilled page at the [info archive](https://fabiololix.gitlab.io/) 
+Will be added **ONLY**  distributions that have a fullfilled page at the [info archive](https://distroware.gitlab.io/) 
 and follow the [Timeline direction](https://github.com/FabioLolix/LinuxTimeline/issues/158)
 
 The info archive code is both at:
