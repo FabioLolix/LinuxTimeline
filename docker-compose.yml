@@ -2,6 +2,7 @@ version: '3.8'
 
 services:
   linux-time-line:
+    image: linux-time-line:latest
     build: .
     user: 1000:1000
     volumes:
