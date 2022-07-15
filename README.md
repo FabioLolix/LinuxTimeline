@@ -34,6 +34,17 @@ After you have installed gnuclad, to build just the svg, run:
 You can run the script `build.sh` to build the svg, png, and the tarball
 containing the source, ImageMagick is required to convert from svg to png.
 
+### Build with docker
+
+```bash
+# Build docker image and run it to build the distribution
+docker build -t linux-time-line .
+docker run -it --rm --name 'linux-time-line-run' --user 1000:1000 -v "${PWD}":/app linux-time-line
+
+# Do the same, but with docker-compose
+docker-compose build
+docker-compose run linux-time-line
+```
 
 ### Info archive
 

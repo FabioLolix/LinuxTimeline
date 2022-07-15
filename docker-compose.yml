@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  linux-time-line:
+    build: .
+    user: 1000:1000
+    volumes:
+      - .:/app
