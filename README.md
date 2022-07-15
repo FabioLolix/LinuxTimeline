@@ -43,7 +43,7 @@ docker run -it --rm --name 'linux-time-line-run' --user 1000:1000 -v "${PWD}":/a
 
 # Do the same, but with docker-compose
 docker-compose build
-docker-compose run linux-time-line
+docker-compose run --rm linux-time-line
 ```
 
 ### Info archive
