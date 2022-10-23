@@ -71,7 +71,7 @@
 "N","Wifislax","#303030","Slackware","2006.12.21",,,"https://distroware.gitlab.io/os/Linux/w/wifislax",,,,,,,,,
 "N","ARMedslack","#000","Slackware","2007.1.18",,,"https://distroware.gitlab.io/os/Linux/s/slackware-arm","Slackware ARM","2012.8.25","https://distroware.gitlab.io/os/Linux/s/slackware-arm",,,,,,
 "N","SL4P","#000","ARMedslack","2012.3.20",,,"https://distroware.gitlab.io/os/Linux/s/sl4p",,,,,,,,,
-"N","Draco","#bf0000","Slackware","2007.5.17",,,"https://distroware.gitlab.io/os/Linux/d/draco",,,,,,,,,
+"N","Draco","#bf0000","Slackware","2007.5.17","2015.12.23",,"https://distroware.gitlab.io/os/Linux/d/draco",,,,,,,,,
 "N","SMS","#6283b9","Slackware","2007.8.10","2019.10.05",,"https://distroware.gitlab.io/os/Linux/s/superb-mini-server","Superb Mini Server","2010.6.11","https://distroware.gitlab.io/os/Linux/s/superb-mini-server",,,,,,
 "N","Wifiway","#303030","Slackware","2008.12.3",,,"https://distroware.gitlab.io/os/Linux/w/wifiway",,,,,,,,,
 "N","PLATYPUX","#884411","Slackware","2008.12.29","2014.11.9",,"https://distroware.gitlab.io/os/Linux/p/platypus",,,,,,,,,
