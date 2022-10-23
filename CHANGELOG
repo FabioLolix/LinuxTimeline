@@ -6,6 +6,8 @@ Linux Distribution Timeline | CHANGELOGS
 * Blacklisted: ServOS
 * Discontinued: RancherOS (thanks to mcen1)
 * Discontinued: Chakra
+* Discontinued: Xinutop
+* Rebased: Xinutop (Debian since 2016.10)
 
 21.10 2021.10.23
 * Added: EuroLinux (thanks to jakub-olczyk, AlexBaranowski and Barnabasz)
