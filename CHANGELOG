@@ -4,6 +4,7 @@ Linux Distribution Timeline | CHANGELOGS
 22.10 2022.10.xx
 * Added: CentOS Stream
 * Blacklisted: ServOS
+* Blacklisted: Progress
 * Discontinued: RancherOS (thanks to mcen1)
 * Discontinued: Chakra
 * Discontinued: Draco
