@@ -144,7 +144,7 @@
 "#N","Bluewall","#4bb8c9","Debian","2004.1.6","2006.2.5",,"http://distrowatch.com/table.php?distribution=bluewall",,,,,,,,,
 "#N","Amber","#ff9900","Debian","2004.2","2006.4",,"http://distrowatch.com/table.php?distribution=amber",,,,,,,,,
 "N","K-DEMar","#416db7","Debian","2004.2.14","2017.05.15",,"https://distroware.gitlab.io/os/Linux/k/kademar","kademar","2009.6.6","https://distroware.gitlab.io/os/Linux/k/kademar",,,,,,
-"N","Guadalinex","#369036","Debian","2004.2.24",,,"https://distroware.gitlab.io/os/Linux/g/guadalinex",,,,,,,,,
+"N","Guadalinex","#369036","Debian","2004.2.24","2017.11.21:",,"https://distroware.gitlab.io/os/Linux/g/guadalinex",,,,,,,,,
 "#N","Euronode","#ff2222","Debian","2004.3.13","2006.1.10",,"http://euronode.org/",,"INFO:","http://web.archive.org/web/20071001144149/http://euronode.org/",,,,,,
 "N","DRBL","#333","Debian","2004.4.1",,,"https://distroware.gitlab.io/os/Linux/d/drbl",,,,,,,,,
 "N","DeadCD","#9bb657","Debian","2004.4","2006.6",,"https://distroware.gitlab.io/os/Linux/o/olive","Olive","2006.5","https://distroware.gitlab.io/os/Linux/o/olive",,,,,,
