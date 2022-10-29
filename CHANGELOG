@@ -3,6 +3,7 @@ Linux Distribution Timeline | CHANGELOGS
 
 22.10 2022.10.xx
 * Added: CentOS Stream
+* Added: Connector Slackware -> LST
 * Blacklisted: ServOS
 * Blacklisted: Progress
 * Discontinued: RancherOS (thanks to mcen1)
@@ -18,6 +19,7 @@ Linux Distribution Timeline | CHANGELOGS
 * Rebased: Pardus (Debian since 2013.03.27)
 * Renamed: Black Lab to Black Lab Linux
 * Fixed: Parted Magic base
+* Fixed: Caldera OpenLinux base
 
 21.10 2021.10.23
 * Added: EuroLinux (thanks to jakub-olczyk, AlexBaranowski and Barnabasz)
