@@ -13,8 +13,10 @@ Linux Distribution Timeline | CHANGELOGS
 * Discontinued: VectorLinux (thanks to OkayPJ)
 * Discontinued: Bardinux (thanks to OkayPJ)
 * Discontinued: Mer
+* Discontinued: Black Lab Linux
 * Rebased: Xinutop (Debian since 2016.10)
 * Rebased: Pardus (Debian since 2013.03.27)
+* Renamed: Black Lab to Black Lab Linux
 * Fixed: Parted Magic base
 
 21.10 2021.10.23
