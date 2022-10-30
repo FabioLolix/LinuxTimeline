@@ -19,6 +19,7 @@ Linux Distributions Timeline | CHANGELOG
 * Rebased: Xinutop (Debian since 2016.10)
 * Rebased: Pardus (Debian since 2013.03.27)
 * Renamed: Black Lab to Black Lab Linux
+* Renamed: Red Hat Enterprise to Red Hat Enterprise Linux
 * Fixed: Parted Magic base
 * Fixed: Caldera OpenLinux base
 
