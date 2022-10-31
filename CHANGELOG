@@ -1,9 +1,34 @@
-Linux Distribution Timeline | CHANGELOGS
+Linux Distributions Timeline | CHANGELOG
 ========================================
 
 22.10 2022.10.xx
+* Added: CentOS Stream
+* Added: Batocera
+* Added: Rocky Linux (thanks to John Moon)
+* Added: AlmaLinux (thanks to Jack Aboutboul)
+* Added: Flatcar Container Linux (thanks to  Vincent Batts)
+* Added: Connector Slackware -> LST
+* Added: Connector CRUX -> Thinstation
+* Blacklisted: ServOS (too short lifetime)
+* Blacklisted: Progress (not a distro)
+* Blacklisted: Voltalinux (too short lifetime)
 * Discontinued: RancherOS (thanks to mcen1)
 * Discontinued: Chakra
+* Discontinued: Draco
+* Discontinued: Xinutop
+* Discontinued: Guadalinex (thanks to OkayPJ)
+* Discontinued: VectorLinux (thanks to OkayPJ)
+* Discontinued: Bardinux (thanks to OkayPJ)
+* Discontinued: Mer
+* Discontinued: Black Lab Linux
+* Discontinued: VortexBox
+* Rebased: Xinutop (Debian since 2016.10)
+* Rebased: Pardus (Debian since 2013.03.27)
+* Rebased: CoreOS/Container Linux to Chromium OS (thanks to  Vincent Batts)
+* Renamed: Black Lab to Black Lab Linux
+* Renamed: Red Hat Enterprise to Red Hat Enterprise Linux
+* Fixed: Parted Magic base
+* Fixed: Caldera OpenLinux base
 
 21.10 2021.10.23
 * Added: EuroLinux (thanks to jakub-olczyk, AlexBaranowski and Barnabasz)
