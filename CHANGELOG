@@ -5,8 +5,9 @@ Linux Distributions Timeline | CHANGELOG
 * Added: CentOS Stream
 * Added: Connector Slackware -> LST
 * Added: Connector CRUX -> Thinstation
-* Blacklisted: ServOS
-* Blacklisted: Progress
+* Blacklisted: ServOS (too short lifetime)
+* Blacklisted: Progress (not a distro)
+* Blacklisted: Voltalinux (too short lifetime)
 * Discontinued: RancherOS (thanks to mcen1)
 * Discontinued: Chakra
 * Discontinued: Draco
