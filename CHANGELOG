@@ -3,6 +3,7 @@ Linux Distributions Timeline | CHANGELOG
 
 22.10 2022.10.xx
 * Added: CentOS Stream
+* Added: Batocera
 * Added: Connector Slackware -> LST
 * Added: Connector CRUX -> Thinstation
 * Blacklisted: ServOS (too short lifetime)
