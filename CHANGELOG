@@ -7,6 +7,7 @@ Linux Distributions Timeline | CHANGELOG
 * Added: Rocky Linux (thanks to John Moon)
 * Added: AlmaLinux (thanks to Jack Aboutboul)
 * Added: Flatcar Container Linux (thanks to  Vincent Batts)
+* Added: Rockstor [OpenSUse branch] (thanks to Stephen Brown II )
 * Added: Connector Slackware -> LST
 * Added: Connector CRUX -> Thinstation
 * Blacklisted: ServOS (too short lifetime)
