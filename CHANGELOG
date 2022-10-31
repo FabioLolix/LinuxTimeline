@@ -26,6 +26,7 @@ Linux Distributions Timeline | CHANGELOG
 * Rebased: Xinutop (Debian since 2016.10)
 * Rebased: Pardus (Debian since 2013.03.27)
 * Rebased: CoreOS/Container Linux to Chromium OS (thanks to  Vincent Batts)
+* Rebased: OpenMandriva Lx to Mandrake (thanks to AngryPenguinPL)
 * Renamed: Black Lab to Black Lab Linux
 * Renamed: Red Hat Enterprise to Red Hat Enterprise Linux
 * Fixed: Parted Magic base
