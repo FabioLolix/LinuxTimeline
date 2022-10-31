@@ -6,6 +6,7 @@ Linux Distributions Timeline | CHANGELOG
 * Added: Batocera
 * Added: Rocky Linux (thanks to John Moon)
 * Added: AlmaLinux (thanks to Jack Aboutboul)
+* Added: Flatcar Container Linux (thanks to  Vincent Batts)
 * Added: Connector Slackware -> LST
 * Added: Connector CRUX -> Thinstation
 * Blacklisted: ServOS (too short lifetime)
@@ -23,6 +24,7 @@ Linux Distributions Timeline | CHANGELOG
 * Discontinued: VortexBox
 * Rebased: Xinutop (Debian since 2016.10)
 * Rebased: Pardus (Debian since 2013.03.27)
+* Rebased: CoreOS/Container Linux to Chromium OS (thanks to  Vincent Batts)
 * Renamed: Black Lab to Black Lab Linux
 * Renamed: Red Hat Enterprise to Red Hat Enterprise Linux
 * Fixed: Parted Magic base
