@@ -475,6 +475,7 @@
 "//N","CloudLinux OS","#005DB4",,"2010.01",,,"https://distroware.gitlab.io/os/Linux/c/cloudlinux",,,,,,,,,
 "#N","FrameOS","#000","Red Hat","2010.7.15",,,"http://www.frameos.org/",,,,,,,,,
 "#N","ServOS","#4b78a7","Red Hat","2011.7",,,"https://distroware.gitlab.io/os/Linux/s/servos",,,,,,,,,
+"N","Rocky Linux","#10b981","Red Hat","2021.4.30",,,"https://distroware.gitlab.io/os/linux/r/rockylinux.md",,,,,,,,,
 "N","EuroLinux ","#005ba5","Red Hat","2021.05.5",,,"https://distroware.gitlab.io/os/Linux/e/eurolinux/",,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "N","Jurix","#9f9f9f",,"1995.2.8","1997",,"https://distroware.gitlab.io/os/Linux/j/jurix",,,,,,,,,
