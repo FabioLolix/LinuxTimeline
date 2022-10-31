@@ -519,7 +519,7 @@
 "N","Chromium OS","#5EAAB6","Enoch","2009.11.19",,,"https://distroware.gitlab.io/os/Linux/c/chromiumos",,,,,,,,,
 "##N","Chrome OS","#039405","Chromium OS","2011.06.15",,,"https://distroware.gitlab.io/os/Linux/c/chromeos",,,,,,,,,
 "N","CoreOS","#F15F6F","Chromium OS","2013.10.3","2020.05.26",,"https://distroware.gitlab.io/os/Linux/c/container-linux","Container Linux","2016.12.12","https://distroware.gitlab.io/os/Linux/c/container-linux",,,,,,
-"#N","Flatcar Container Linux","#09BAC8","CoreOS","2018.03.06",,,"https://distroware.gitlab.io/os/Linux/c/flatcar-container-linux",,,,,,,,,
+"N","Flatcar Container Linux","#09BAC8","CoreOS","2018.03.06",,"https://distroware.gitlab.io/os/Linux/f/flatcar-container-linux",,,,,,,,,,
 "N","CloudReady","#0971ce","Chromium OS","2015.04.21",,,"https://distroware.gitlab.io/os/Linux/c/cloudready",,,,,,,,,
 "N","NayuOS","#3e72a1","Chromium OS","2016.02.1",,,"https://distroware.gitlab.io/os/Linux/n/nayuos",,,,,,,,,
 "N","Flint OS","#222222","Chromium OS","2016.10.28","2018.03.6",,"https://distroware.gitlab.io/os/Linux/f/flint-os",,,,,,,,,
