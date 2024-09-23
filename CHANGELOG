@@ -2,6 +2,8 @@ Linux Distributions Timeline | CHANGELOG
 ========================================
 
 * Discontinued: CentOS (+2024-06-30)
+* Discontinued: Scientific Linux (+2024-06-30)
+* Renamed: Scientific to Scientific Linux
 
 22.10 2022.10.31
 * Added: CentOS Stream
