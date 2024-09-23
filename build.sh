@@ -31,8 +31,8 @@ gen_svg()
 gen_png() {
     [ "$tl_run" ] || gen_svg
     msg "Generating $PROJNAME$VERS.png..."
-    command -v convert >/dev/null || (warn "ImageMagick not found! PNG not generated"; return 1)
-    convert "dist/$PROJNAME$VERS.svg" "dist/$PROJNAME$VERS.png"
+    command -v magick >/dev/null || (warn "ImageMagick not found! PNG not generated"; return 1)
+    magick "dist/$PROJNAME$VERS.svg" "dist/$PROJNAME$VERS.png"
     msg "Generated dist/$PROJNAME$VERS.png"
     png_run=1
 }
