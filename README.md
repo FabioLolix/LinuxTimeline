@@ -78,4 +78,4 @@ https://www.debian.org/derivatives/
 
 https://wiki.archlinux.org/index.php/Arch-based_distributions
 
-https://fabiololix.gitlab.io/lists/RaspberryPi_OS/
+https://distroware.gitlab.io/lists/RaspberryPi_OS/
