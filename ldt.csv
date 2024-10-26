@@ -290,7 +290,7 @@
 "N","Epidemic","#4da20f","Debian","2006.2.16","2016.03.05",,"https://distroware.gitlab.io/os/Linux/e/epidemic",,,,,,,,,
 "N","Vyatta","#ff9933","Debian","2006.3.00","2017.10.5",,"https://distroware.gitlab.io/os/Linux/v/vyatta","Brocade Vyatta vRouter","2013.04.00","https://distroware.gitlab.io/os/Linux/v/vyatta",,,,,,
 "N","VyOS","#E57D7D","Vyatta","2013.12.22",,,"https://distroware.gitlab.io/os/Linux/v/vyos",,,,,,,,,
-"N","Librassoc","#9999aa","Debian","2006.3.23","2008.1.18",,"https://distroware.gitlab.io/os/Linux/l/librassoc",,,,,,,,,
+"#N","Librassoc","#9999aa","Debian","2006.3.23","2008.1.18",,"https://distroware.gitlab.io/os/Linux/l/librassoc",,,,,,,,,
 "N","PureOS","#2337ff","Debian","2006.8.5","2014.03.03",,"https://distroware.gitlab.io/os/Linux/p/pureos-linux-live-kit",,,,,,,,,
 "N","sidux","#7e7e86","Debian","2006.11.24","2016.05.05",,"https://distroware.gitlab.io/os/Linux/a/aptosid","aptosid","2010.9.11","https://distroware.gitlab.io/os/Linux/a/aptosid",,,,,,
 "N","siduction","#535d6c","sidux","2011.12.21",,,"https://distroware.gitlab.io/os/Linux/s/siduction",,,,,,,,,
