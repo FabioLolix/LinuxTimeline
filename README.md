@@ -10,9 +10,9 @@ under the terms of the GNU Free Documentation License, Version 1.3 or
 any later version published by the Free Software Foundation; with no
 Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
-Original source: https://futurist.se/gldt/
-
 Current source: https://github.com/FabioLolix/LinuxTimeline
+
+Original source: https://web.archive.org/web/20220403102136/http://futurist.se/gldt/
 
 ### CONTRIBUTING
 
