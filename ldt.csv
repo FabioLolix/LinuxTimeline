@@ -885,7 +885,7 @@
 ,,,,,,,,,,,,,,,,
 "##C","2015.3","CyanogenMod",,"Cyanogen OS","2","#33B5E5","# CyanogenMod with additional services, made by Cyanogen Inc.",,,,,,,,,
 "C","2016.12.23","CyanogenMod",,"LineageOS","2","#33B5E5","# Steve Kondik forked his own project since CyanogenMod is shutting down by Cyanogen Inc. (also Cyanogen OS as OS is shutting down )",,,,,,,,,
-"C","2016.12.27","LineageOS",,"DivestOS","4","#FF5722","# DivestOS started to rebase from CyanogenMod to LineageOS.",,,,,,,,,
+"C","2016.12.27","LineageOS",,"DivestOS","2","#FF5722","# DivestOS started to rebase from CyanogenMod to LineageOS.",,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Domains",,,,,,,,,,,,,,,
 "#","Distribution","Color","Intensity",,,,,,,,,,,,,
