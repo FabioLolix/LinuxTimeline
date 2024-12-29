@@ -724,7 +724,7 @@
 "#N","CopperheadOS","#167C80","AOSP","2015.04.21",,,"https://distroware.gitlab.io/os/Linux/LinuxAndroid/c/copperhead-os",,,,,,,,,
 "##N","Project Brillo","#a4c639","AOSP","2015.05.28",,,"https://distroware.gitlab.io/os/Linux/LinuxAndroid/a/android-things","Android Things","2016.12.13","https://distroware.gitlab.io/os/Linux/LinuxAndroid/a/android-things",,,,,,
 "N","GrapheneOS","#212121","AOSP","2019.04.03",,,"https://distroware.gitlab.io/os/LinuxAndroid/g/grapheneos/",,,,,,,,,
-"N","DivestOS","#FF5722","AOSP","2014.12.31",2024.12.23,,"https://distroware.gitlab.io/os/LinuxAndroid/d/divestos/",,,,,,,,,
+"N","DivestOS","#FF5722","AOSP","2014.12.31","2024.12.23",,"https://distroware.gitlab.io/os/LinuxAndroid/d/divestos/",,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Connectors",,,,,,,,,,,,,,,
